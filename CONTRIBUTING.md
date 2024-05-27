@@ -2,6 +2,8 @@
 ## Preamble
 Before beginning, please check that there isn't an existing open compatibility report for the game. Only one report should be active for a single game at any given time. New reports can be made for games which have previously closed reports to provide an updated compatibility score.
 
+If a report exists for a game you are looking to report, please instead corroborate the existing report as mentioned at the end of this document.
+
 Additionally, please do not create a report for a game with the same compatibility rating that it already has. These reports are redundant and will be closed without further communication.
 
 ## Starting the Report
