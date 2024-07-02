@@ -5010,7 +5010,16 @@
     "title": "Animal Crossing: New Horizons Island Transfer Tool"
   },
   {
-    "compatibility": 99,
+    "compatibility": 1,
+    "directory": "animal-crossing-new-leaf",
+    "releases": [
+      {"id": "0004000000086300"},
+      {"id": "0004000000086400"}
+    ],
+    "title": "Animal Crossing: New Leaf"
+  },
+  {
+    "compatibility": 1,
     "directory": "animal-crossing-new-leaf-update-ver-15",
     "releases": [
       {"id": "0004000E00086300"}
