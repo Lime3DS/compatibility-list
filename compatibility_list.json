@@ -84186,7 +84186,8 @@
     "compatibility": 5,
     "directory": "tomodachi-life-update-ver-11",
     "releases": [
-      {"id": "0004000E0008C300"}
+      {"id": "0004000E0008C300"},
+      {"id": "000400000008C400"}
     ],
     "title": "Tomodachi Life Update Ver. 1.1"
   },
