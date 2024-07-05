@@ -9,22 +9,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "1001-blockbusters",
-    "releases": [
-      {"id": "000480044B494F45"}
-    ],
-    "title": "1001 BlockBusters"
-  },
-  {
-    "compatibility": 99,
-    "directory": "1001-crystal-mazes-collection",
-    "releases": [
-      {"id": "000480044B4F4B45"}
-    ],
-    "title": "1001 Crystal Mazes Collection"
-  },
-  {
-    "compatibility": 99,
     "directory": "1001-spikes",
     "releases": [
       {"id": "000400000008FE00"}
@@ -41,22 +25,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "101-dolphin-pets",
-    "releases": [
-      {"id": "000480044B345A45"}
-    ],
-    "title": "101 Dolphin Pets"
-  },
-  {
-    "compatibility": 99,
-    "directory": "101-minigolf-world",
-    "releases": [
-      {"id": "000480044B584945"}
-    ],
-    "title": "101 MiniGolf World"
-  },
-  {
-    "compatibility": 99,
     "directory": "101-penguin-pets-3d",
     "releases": [
       {"id": "00040000000EBE00"}
@@ -65,59 +33,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "101-pinball-world",
-    "releases": [
-      {"id": "000480044B494945"}
-    ],
-    "title": "101 Pinball World"
-  },
-  {
-    "compatibility": 99,
     "directory": "101-pony-pets-3d",
     "releases": [
       {"id": "0004000000124F00"}
     ],
     "title": "101 Pony Pets 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "101-shark-pets",
-    "releases": [
-      {"id": "000480044B345945"}
-    ],
-    "title": "101 Shark Pets"
-  },
-  {
-    "compatibility": 99,
-    "directory": "16-shot-shooting-watch",
-    "releases": [
-      {"id": "000480044B493645"}
-    ],
-    "title": "16 Shot! SHOOTING WATCH"
-  },
-  {
-    "compatibility": 99,
-    "directory": "18th-gate",
-    "releases": [
-      {"id": "000480044B584F45"}
-    ],
-    "title": "18th Gate"
-  },
-  {
-    "compatibility": 99,
-    "directory": "1950s-lawn-mower-kids",
-    "releases": [
-      {"id": "000480044B393545"}
-    ],
-    "title": "1950s Lawn Mower Kids"
-  },
-  {
-    "compatibility": 99,
-    "directory": "1st-class-poker-and-blackjack",
-    "releases": [
-      {"id": "000480044B595045"}
-    ],
-    "title": "1st Class Poker & BlackJack"
   },
   {
     "compatibility": 99,
@@ -134,38 +54,6 @@
       {"id": "0004000000139000"}
     ],
     "title": "2048"
-  },
-  {
-    "compatibility": 99,
-    "directory": "21-blackjack",
-    "releases": [
-      {"id": "000480044B424A45"}
-    ],
-    "title": "21: Blackjack"
-  },
-  {
-    "compatibility": 99,
-    "directory": "247-solitaire",
-    "releases": [
-      {"id": "000480044B344945"}
-    ],
-    "title": "24/7 Solitaire"
-  },
-  {
-    "compatibility": 99,
-    "directory": "3-2-1-wordsup",
-    "releases": [
-      {"id": "000480044B4E5745"}
-    ],
-    "title": "3, 2, 1 WordsUp!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "3-heroes-crystal-soul",
-    "releases": [
-      {"id": "000480044B335945"}
-    ],
-    "title": "3 Heroes: Crystal Soul"
   },
   {
     "compatibility": 99,
@@ -289,14 +177,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "3d-mahjong",
-    "releases": [
-      {"id": "000480044B4D4A45"}
-    ],
-    "title": "3D Mahjong"
-  },
-  {
-    "compatibility": 99,
     "directory": "3d-mahjongg",
     "releases": [
       {"id": "00040000000C1000"}
@@ -393,46 +273,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "3d-twist-and-match",
-    "releases": [
-      {"id": "000480044B334345"}
-    ],
-    "title": "3D Twist & Match"
-  },
-  {
-    "compatibility": 99,
-    "directory": "4-elements",
-    "releases": [
-      {"id": "000480044B374145"}
-    ],
-    "title": "4 Elements"
-  },
-  {
-    "compatibility": 99,
-    "directory": "40-in-1-explosive-megamix",
-    "releases": [
-      {"id": "000480044B343545"}
-    ],
-    "title": "40-in-1 Explosive Megamix"
-  },
-  {
-    "compatibility": 99,
-    "directory": "5-in-1-mahjong",
-    "releases": [
-      {"id": "000480044B524A45"}
-    ],
-    "title": "5 in 1 Mahjong"
-  },
-  {
-    "compatibility": 99,
-    "directory": "5-in-1-solitaire",
-    "releases": [
-      {"id": "000480044B354945"}
-    ],
-    "title": "5 in 1 Solitaire"
-  },
-  {
-    "compatibility": 99,
     "directory": "50-classic-games-3d",
     "releases": [
       {"id": "00040000000BF300"}
@@ -441,35 +281,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "505-tangram",
-    "releases": [
-      {"id": "000480044B324F45"}
-    ],
-    "title": "505 Tangram"
-  },
-  {
-    "compatibility": 99,
     "directory": "6180-the-moon",
     "releases": [
       {"id": "000400000F70A500"}
     ],
     "title": "6180 the moon"
-  },
-  {
-    "compatibility": 99,
-    "directory": "7-card-games",
-    "releases": [
-      {"id": "000480044B374345"}
-    ],
-    "title": "7 Card Games"
-  },
-  {
-    "compatibility": 99,
-    "directory": "7-wonders-ii",
-    "releases": [
-      {"id": "000480044B375745"}
-    ],
-    "title": "7 Wonders II"
   },
   {
     "compatibility": 0,
@@ -488,148 +304,12 @@
     "title": "80'S OVERDRIVE"
   },
   {
-    "compatibility": 99,
-    "directory": "90s-pool",
-    "releases": [
-      {"id": "000480044B585045"}
-    ],
-    "title": "90's Pool"
-  },
-  {
-    "compatibility": 99,
-    "directory": "99bullets",
-    "releases": [
-      {"id": "000480044B393945"}
-    ],
-    "title": "99Bullets"
-  },
-  {
-    "compatibility": 99,
-    "directory": "99moves",
-    "releases": [
-      {"id": "000480044B395745"}
-    ],
-    "title": "99Moves"
-  },
-  {
-    "compatibility": 99,
-    "directory": "99seconds",
-    "releases": [
-      {"id": "000480044B585445"}
-    ],
-    "title": "99Seconds"
-  },
-  {
-    "compatibility": 99,
-    "directory": "a-fairy-tale",
-    "releases": [
-      {"id": "000480044B465945"}
-    ],
-    "title": "A Fairy Tale"
-  },
-  {
-    "compatibility": 99,
-    "directory": "a-kappas-trail",
-    "releases": [
-      {"id": "000480044B504145"}
-    ],
-    "title": "A Kappa's Trail"
-  },
-  {
-    "compatibility": 99,
-    "directory": "a-topsy-turvy-life-the-turvys-strike-back",
-    "releases": [
-      {"id": "000480044B333445"}
-    ],
-    "title": "A Topsy Turvy Life:  The Turvys Strike Back"
-  },
-  {
-    "compatibility": 99,
-    "directory": "a-topsy-turvy-life-turvy-drops",
-    "releases": [
-      {"id": "000480044B334D45"}
-    ],
-    "title": "A Topsy Turvy Life:  Turvy Drops"
-  },
-  {
     "compatibility": 1,
     "directory": "a-train-3d-city-simulator",
     "releases": [
       {"id": "0004000000155700"}
     ],
     "title": "A-Train 3D: City Simulator"
-  },
-  {
-    "compatibility": 99,
-    "directory": "aahh-spot-the-difference",
-    "releases": [
-      {"id": "000480044B565345"}
-    ],
-    "title": "Aahh! Spot The Difference"
-  },
-  {
-    "compatibility": 99,
-    "directory": "absolute-baseball",
-    "releases": [
-      {"id": "000480044B453945"}
-    ],
-    "title": "Absolute Baseball"
-  },
-  {
-    "compatibility": 99,
-    "directory": "absolute-brickbuster",
-    "releases": [
-      {"id": "000480044B365145"}
-    ],
-    "title": "Absolute BrickBuster"
-  },
-  {
-    "compatibility": 99,
-    "directory": "absolute-chess",
-    "releases": [
-      {"id": "000480044B435A45"}
-    ],
-    "title": "Absolute Chess"
-  },
-  {
-    "compatibility": 99,
-    "directory": "absolute-reversi",
-    "releases": [
-      {"id": "000480044B413845"}
-    ],
-    "title": "Absolute Reversi"
-  },
-  {
-    "compatibility": 99,
-    "directory": "abyss",
-    "releases": [
-      {"id": "000480044B584745"}
-    ],
-    "title": "Abyss"
-  },
-  {
-    "compatibility": 99,
-    "directory": "academy-checkers",
-    "releases": [
-      {"id": "000480044B345145"}
-    ],
-    "title": "Academy Checkers"
-  },
-  {
-    "compatibility": 99,
-    "directory": "academy-chess-puzzles",
-    "releases": [
-      {"id": "000480044B4B5A45"}
-    ],
-    "title": "Academy: Chess Puzzles"
-  },
-  {
-    "compatibility": 99,
-    "directory": "academy-tic-tac-toe",
-    "releases": [
-      {"id": "000480044B543345"}
-    ],
-    "title": "Academy: Tic-Tac-Toe"
   },
   {
     "compatibility": 2,
@@ -640,36 +320,12 @@
     "title": "ACE COMBAT Assault Horizon Legacy"
   },
   {
-    "compatibility": 99,
-    "directory": "ace-mathician",
-    "releases": [
-      {"id": "000480044B514B45"}
-    ],
-    "title": "Ace Mathician"
-  },
-  {
-    "compatibility": 99,
-    "directory": "advanced-circuits",
-    "releases": [
-      {"id": "000480044B414345"}
-    ],
-    "title": "Advanced Circuits"
-  },
-  {
     "compatibility": 1,
     "directory": "adventure-bar-story",
     "releases": [
       {"id": "0004000000160F00"}
     ],
     "title": "Adventure Bar Story"
-  },
-  {
-    "compatibility": 99,
-    "directory": "adventure-in-vegas-slot-machine",
-    "releases": [
-      {"id": "000480044B564745"}
-    ],
-    "title": "Adventure in Vegas:  Slot Machine"
   },
   {
     "compatibility": 99,
@@ -720,30 +376,6 @@
     "title": "AeternoBlade"
   },
   {
-    "compatibility": 99,
-    "directory": "afterzoom",
-    "releases": [
-      {"id": "000480044B5A3645"}
-    ],
-    "title": "AfterZoom"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ah-heaven",
-    "releases": [
-      {"id": "000480044B354845"}
-    ],
-    "title": "Ah! Heaven"
-  },
-  {
-    "compatibility": 99,
-    "directory": "airace",
-    "releases": [
-      {"id": "000480044B415245"}
-    ],
-    "title": "AiRace"
-  },
-  {
     "compatibility": 0,
     "directory": "airace-speed",
     "releases": [
@@ -753,35 +385,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "airace-tunnel",
-    "releases": [
-      {"id": "000480044B415445"}
-    ],
-    "title": "AiRace: Tunnel"
-  },
-  {
-    "compatibility": 99,
     "directory": "airace-xeno",
     "releases": [
       {"id": "000400000012BF00"}
     ],
     "title": "AiRace Xeno"
-  },
-  {
-    "compatibility": 99,
-    "directory": "airport-mania-first-flight",
-    "releases": [
-      {"id": "000480044B464145"}
-    ],
-    "title": "Airport Mania: First Flight"
-  },
-  {
-    "compatibility": 99,
-    "directory": "airport-mania-non-stop-flights",
-    "releases": [
-      {"id": "000480044B414645"}
-    ],
-    "title": "Airport Mania: Non-Stop Flights"
   },
   {
     "compatibility": 99,
@@ -841,38 +449,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "american-popstar-road-to-celebrity",
-    "releases": [
-      {"id": "000480044B504F45"}
-    ],
-    "title": "American Popstar: Road to Celebrity"
-  },
-  {
-    "compatibility": 99,
-    "directory": "amidas-path",
-    "releases": [
-      {"id": "000480044B394A45"}
-    ],
-    "title": "Amida's Path"
-  },
-  {
-    "compatibility": 99,
-    "directory": "amoebattle",
-    "releases": [
-      {"id": "000480044B554145"}
-    ],
-    "title": "Amoebattle"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ancient-tribe",
-    "releases": [
-      {"id": "000480044B414545"}
-    ],
-    "title": "Ancient Tribe"
-  },
-  {
-    "compatibility": 99,
     "directory": "anglers-club-ultimate-bass-fishing-3d",
     "releases": [
       {"id": "0004000000048200"}
@@ -894,30 +470,6 @@
       {"id": "0004000000161000"}
     ],
     "title": "Angry Video Game Nerd  Adventures"
-  },
-  {
-    "compatibility": 99,
-    "directory": "animal-boxing",
-    "releases": [
-      {"id": "000480044B415845"}
-    ],
-    "title": "Animal Boxing"
-  },
-  {
-    "compatibility": 99,
-    "directory": "animal-crossing-calculator",
-    "releases": [
-      {"id": "000480044B574745"}
-    ],
-    "title": "Animal Crossing Calculator"
-  },
-  {
-    "compatibility": 99,
-    "directory": "animal-crossing-clock",
-    "releases": [
-      {"id": "000480044B574345"}
-    ],
-    "title": "Animal Crossing Clock"
   },
   {
     "compatibility": 1,
@@ -946,51 +498,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "animal-puzzle-adventure",
-    "releases": [
-      {"id": "000480044B504345"}
-    ],
-    "title": "Animal Puzzle Adventure"
-  },
-  {
-    "compatibility": 99,
     "directory": "anime-workshop",
     "releases": [
       {"id": "00040000001BEF00"}
     ],
     "title": "Anime Workshop"
-  },
-  {
-    "compatibility": 99,
-    "directory": "anonymous-notes-chapter-1-from-the-abyss-",
-    "releases": [
-      {"id": "000480044B564945"}
-    ],
-    "title": "Anonymous Notes Chapter 1 - From The Abyss -"
-  },
-  {
-    "compatibility": 99,
-    "directory": "anonymous-notes-chapter-2-from-the-abyss-",
-    "releases": [
-      {"id": "000480044B563245"}
-    ],
-    "title": "Anonymous Notes Chapter 2 - From The Abyss -"
-  },
-  {
-    "compatibility": 99,
-    "directory": "anonymous-notes-chapter-3-from-the-abyss-",
-    "releases": [
-      {"id": "000480044B563345"}
-    ],
-    "title": "Anonymous Notes Chapter 3 - From The Abyss -"
-  },
-  {
-    "compatibility": 99,
-    "directory": "anonymous-notes-chapter-4-from-the-abyss-",
-    "releases": [
-      {"id": "000480044B563445"}
-    ],
-    "title": "ANONYMOUS NOTES CHAPTER 4 - FROM THE ABYSS -"
   },
   {
     "compatibility": 99,
@@ -1050,51 +562,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "arctic-escape",
-    "releases": [
-      {"id": "000480044B514145"}
-    ],
-    "title": "Arctic Escape"
-  },
-  {
-    "compatibility": 99,
     "directory": "are-you-smarter-than-a-5th-grader",
     "releases": [
       {"id": "000400000016F100"}
     ],
     "title": "Are You Smarter Than a  5th Grader?"
-  },
-  {
-    "compatibility": 99,
-    "directory": "armada",
-    "releases": [
-      {"id": "000480044B524445"}
-    ],
-    "title": "Armada"
-  },
-  {
-    "compatibility": 99,
-    "directory": "armageddon-operation-dragon",
-    "releases": [
-      {"id": "000480044B553545"}
-    ],
-    "title": "Armageddon Operation Dragon"
-  },
-  {
-    "compatibility": 99,
-    "directory": "around-the-world-in-80-days",
-    "releases": [
-      {"id": "000480044B374245"}
-    ],
-    "title": "Around the World in 80 Days"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-academy-first-semester",
-    "releases": [
-      {"id": "000480044B414945"}
-    ],
-    "title": "Art Academy: First Semester"
   },
   {
     "compatibility": 4,
@@ -1105,76 +577,12 @@
     "title": "Art Academy:  Lessons for Everyone!"
   },
   {
-    "compatibility": 99,
-    "directory": "art-academy-second-semester",
-    "releases": [
-      {"id": "000480044B413245"}
-    ],
-    "title": "Art Academy: Second Semester"
-  },
-  {
     "compatibility": 1,
     "directory": "art-of-balance-touch",
     "releases": [
       {"id": "000400000008FF00"}
     ],
     "title": "Art of Balance TOUCH!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-aquia",
-    "releases": [
-      {"id": "000480044B414145"}
-    ],
-    "title": "Art Style: AQUIA"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-base-10",
-    "releases": [
-      {"id": "000480044B414445"}
-    ],
-    "title": "Art Style: BASE 10"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-boxlife",
-    "releases": [
-      {"id": "000480044B414845"}
-    ],
-    "title": "Art Style: BOXLIFE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-digidrive",
-    "releases": [
-      {"id": "000480044B415645"}
-    ],
-    "title": "Art Style: DIGIDRIVE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-pictobits",
-    "releases": [
-      {"id": "000480044B415045"}
-    ],
-    "title": "Art Style: PiCTOBiTS"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-precipice",
-    "releases": [
-      {"id": "000480044B414B45"}
-    ],
-    "title": "Art Style: precipice"
-  },
-  {
-    "compatibility": 99,
-    "directory": "art-style-zengage",
-    "releases": [
-      {"id": "000480044B415345"}
-    ],
-    "title": "Art Style: ZENGAGE"
   },
   {
     "compatibility": 99,
@@ -1218,14 +626,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "astro",
-    "releases": [
-      {"id": "000480044B374445"}
-    ],
-    "title": "Astro"
-  },
-  {
-    "compatibility": 99,
     "directory": "atlantic-quest",
     "releases": [
       {"id": "0004000000114000"}
@@ -1241,36 +641,12 @@
     "title": "ATTACK OF THE FRIDAY MONSTERS! A TOKYO TALE"
   },
   {
-    "compatibility": 99,
-    "directory": "atv-fever",
-    "releases": [
-      {"id": "000480044B565545"}
-    ],
-    "title": "ATV Fever"
-  },
-  {
-    "compatibility": 99,
-    "directory": "atv-quad-kings",
-    "releases": [
-      {"id": "000480044B395545"}
-    ],
-    "title": "ATV Quad Kings"
-  },
-  {
     "compatibility": 1,
     "directory": "atv-wild-ride-3d",
     "releases": [
       {"id": "000400000009CA00"}
     ],
     "title": "ATV Wild Ride 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "aura-aura-climber",
-    "releases": [
-      {"id": "000480044B535245"}
-    ],
-    "title": "Aura-Aura Climber"
   },
   {
     "compatibility": 99,
@@ -1327,14 +703,6 @@
       {"id": "00040000001B7600"}
     ],
     "title": "Azure Striker Gunvolt: The Anime"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ball-fighter",
-    "releases": [
-      {"id": "000480044B424F45"}
-    ],
-    "title": "Ball Fighter"
   },
   {
     "compatibility": 0,
@@ -1402,38 +770,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "battle-of-giants-dinosaurs-fight-for-survival",
-    "releases": [
-      {"id": "000480044B384745"}
-    ],
-    "title": "Battle of Giants: Dinosaurs - Fight For Survival"
-  },
-  {
-    "compatibility": 99,
-    "directory": "battle-of-giants-dragons-bronze-edition",
-    "releases": [
-      {"id": "000480044B424145"}
-    ],
-    "title": "Battle of Giants: Dragons - Bronze Edition"
-  },
-  {
-    "compatibility": 99,
-    "directory": "battle-of-giants-mutant-insects-revenge",
-    "releases": [
-      {"id": "000480044B363445"}
-    ],
-    "title": "Battle of Giants:  Mutant Insects - Revenge"
-  },
-  {
-    "compatibility": 99,
-    "directory": "battle-of-the-elements",
-    "releases": [
-      {"id": "000480044B4C4D45"}
-    ],
-    "title": "Battle of the Elements"
-  },
-  {
-    "compatibility": 99,
     "directory": "battleminer",
     "releases": [
       {"id": "000400000014C900"}
@@ -1455,22 +791,6 @@
       {"id": "0004000000071700"}
     ],
     "title": "BATTLESHIP"
-  },
-  {
-    "compatibility": 99,
-    "directory": "beach-party-craze",
-    "releases": [
-      {"id": "000480044B423545"}
-    ],
-    "title": "Beach Party Craze"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bejeweled-twist",
-    "releases": [
-      {"id": "000480044B424545"}
-    ],
-    "title": "Bejeweled Twist"
   },
   {
     "compatibility": 3,
@@ -1578,14 +898,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "big-bass-arcade",
-    "releases": [
-      {"id": "000480044B394745"}
-    ],
-    "title": "Big Bass Arcade"
-  },
-  {
-    "compatibility": 99,
     "directory": "big-bass-arcade-no-limit",
     "releases": [
       {"id": "00040000000D6600"}
@@ -1631,22 +943,6 @@
       {"id": "000400000011A800"}
     ],
     "title": "Bionic Commando: Elite Forces"
-  },
-  {
-    "compatibility": 99,
-    "directory": "biorhythm",
-    "releases": [
-      {"id": "000480044B424945"}
-    ],
-    "title": "Biorhythm"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bird-and-beans",
-    "releases": [
-      {"id": "000480044B503645"}
-    ],
-    "title": "Bird & Beans"
   },
   {
     "compatibility": 0,
@@ -1729,14 +1025,6 @@
     "title": "Blasting Agent: Ultimate Edition"
   },
   {
-    "compatibility": 99,
-    "directory": "blayzbloo-super-melee-action-battle-royale",
-    "releases": [
-      {"id": "000480044B425A45"}
-    ],
-    "title": "Blayzbloo: Super Melee Action Battle Royale"
-  },
-  {
     "compatibility": 0,
     "directory": "blazblue-clonephantasma-",
     "releases": [
@@ -1794,43 +1082,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "bloons",
-    "releases": [
-      {"id": "000480044B424C45"}
-    ],
-    "title": "Bloons"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bloons-td",
-    "releases": [
-      {"id": "000480044B4C4E45"}
-    ],
-    "title": "Bloons TD"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bloons-td-4",
-    "releases": [
-      {"id": "000480044B555645"}
-    ],
-    "title": "Bloons TD 4"
-  },
-  {
-    "compatibility": 99,
     "directory": "bomb-monkey",
     "releases": [
       {"id": "000400000009B200"}
     ],
     "title": "Bomb Monkey"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bomberman-blitz",
-    "releases": [
-      {"id": "000480044B424245"}
-    ],
-    "title": "Bomberman Blitz"
   },
   {
     "compatibility": 0,
@@ -1842,51 +1098,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "bookstore-dream",
-    "releases": [
-      {"id": "000480044B515645"}
-    ],
-    "title": "BOOKSTORE DREAM"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bookworm",
-    "releases": [
-      {"id": "000480044B424B45"}
-    ],
-    "title": "Bookworm"
-  },
-  {
-    "compatibility": 99,
-    "directory": "boom-boom-squaries",
-    "releases": [
-      {"id": "000480044B424D45"}
-    ],
-    "title": "Boom Boom Squaries"
-  },
-  {
-    "compatibility": 99,
-    "directory": "bounce-and-break",
-    "releases": [
-      {"id": "000480044B5A4545"}
-    ],
-    "title": "Bounce & Break"
-  },
-  {
-    "compatibility": 99,
     "directory": "bowling-bonanza-3d",
     "releases": [
       {"id": "00040000000C7E00"}
     ],
     "title": "Bowling Bonanza 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "box-pusher",
-    "releases": [
-      {"id": "000480044B514245"}
-    ],
-    "title": "Box Pusher"
   },
   {
     "compatibility": 99,
@@ -1927,38 +1143,6 @@
       {"id": "00040000000B3C00"}
     ],
     "title": "Brain Age: Concentration Training"
-  },
-  {
-    "compatibility": 99,
-    "directory": "brain-age-express-arts-and-letters",
-    "releases": [
-      {"id": "000480044B4E4445"}
-    ],
-    "title": "Brain Age Express: Arts & Letters"
-  },
-  {
-    "compatibility": 99,
-    "directory": "brain-age-express-math",
-    "releases": [
-      {"id": "000480044B4E5245"}
-    ],
-    "title": "Brain Age Express: Math"
-  },
-  {
-    "compatibility": 99,
-    "directory": "brain-challenge",
-    "releases": [
-      {"id": "000480044B424345"}
-    ],
-    "title": "Brain Challenge"
-  },
-  {
-    "compatibility": 99,
-    "directory": "brain-drain",
-    "releases": [
-      {"id": "000480044B424445"}
-    ],
-    "title": "Brain Drain"
   },
   {
     "compatibility": 99,
@@ -2074,14 +1258,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "bridge",
-    "releases": [
-      {"id": "000480044B394645"}
-    ],
-    "title": "Bridge"
-  },
-  {
-    "compatibility": 99,
     "directory": "brilliant-hamsters",
     "releases": [
       {"id": "00040000000C1B00"}
@@ -2106,27 +1282,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "bugs-n-balls",
-    "releases": [
-      {"id": "000480044B4B5145"}
-    ],
-    "title": "Bugs 'N' Balls"
-  },
-  {
-    "compatibility": 99,
     "directory": "bugs-vs-tanks",
     "releases": [
       {"id": "00040000000D9800"}
     ],
     "title": "BUGS vs. TANKS!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "build-a-lot",
-    "releases": [
-      {"id": "000480044B423645"}
-    ],
-    "title": "Build-a-lot"
   },
   {
     "compatibility": 99,
@@ -2159,54 +1319,6 @@
       {"id": "00040000001B5300"}
     ],
     "title": "BYE-BYE BOXBOY!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "cake-ninja",
-    "releases": [
-      {"id": "000480044B324A45"}
-    ],
-    "title": "Cake Ninja"
-  },
-  {
-    "compatibility": 99,
-    "directory": "cake-ninja-2",
-    "releases": [
-      {"id": "000480044B324E45"}
-    ],
-    "title": "Cake Ninja 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "cake-ninja-xmas",
-    "releases": [
-      {"id": "000480044B594E45"}
-    ],
-    "title": "Cake Ninja: XMAS"
-  },
-  {
-    "compatibility": 99,
-    "directory": "calculator",
-    "releases": [
-      {"id": "000480044B435945"}
-    ],
-    "title": "Calculator"
-  },
-  {
-    "compatibility": 99,
-    "directory": "california-super-sports",
-    "releases": [
-      {"id": "000480044B323245"}
-    ],
-    "title": "California Super Sports"
-  },
-  {
-    "compatibility": 99,
-    "directory": "candle-route",
-    "releases": [
-      {"id": "000480044B395945"}
-    ],
-    "title": "Candle Route"
   },
   {
     "compatibility": 99,
@@ -2282,22 +1394,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "castle-conqueror",
-    "releases": [
-      {"id": "000480044B434E45"}
-    ],
-    "title": "Castle Conqueror"
-  },
-  {
-    "compatibility": 99,
-    "directory": "castle-conqueror-against",
-    "releases": [
-      {"id": "000480044B514F45"}
-    ],
-    "title": "Castle Conqueror - Against"
-  },
-  {
-    "compatibility": 99,
     "directory": "castle-conqueror-defender",
     "releases": [
       {"id": "00040000000A8400"}
@@ -2311,38 +1407,6 @@
       {"id": "0004000000146A00"}
     ],
     "title": "Castle Conqueror EX"
-  },
-  {
-    "compatibility": 99,
-    "directory": "castle-conqueror-heroes",
-    "releases": [
-      {"id": "000480044B433545"}
-    ],
-    "title": "Castle Conqueror - Heroes"
-  },
-  {
-    "compatibility": 99,
-    "directory": "castle-conqueror-heroes-2",
-    "releases": [
-      {"id": "000480044B584345"}
-    ],
-    "title": "Castle Conqueror - Heroes 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "castle-conqueror-revolution",
-    "releases": [
-      {"id": "000480044B514E45"}
-    ],
-    "title": "Castle Conqueror - Revolution"
-  },
-  {
-    "compatibility": 99,
-    "directory": "castle-of-magic",
-    "releases": [
-      {"id": "000480044B434D45"}
-    ],
-    "title": "Castle Of Magic"
   },
   {
     "compatibility": 99,
@@ -2391,14 +1455,6 @@
       {"id": "000400000007DE00"}
     ],
     "title": "Castlevania: The Adventure"
-  },
-  {
-    "compatibility": 99,
-    "directory": "cat-frenzy",
-    "releases": [
-      {"id": "000480044B565845"}
-    ],
-    "title": "Cat Frenzy"
   },
   {
     "compatibility": 99,
@@ -2458,14 +1514,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "chess-challenge",
-    "releases": [
-      {"id": "000480044B435445"}
-    ],
-    "title": "Chess Challenge!"
-  },
-  {
-    "compatibility": 99,
     "directory": "chibi-robo-photo-finder",
     "releases": [
       {"id": "0004000000107C00"}
@@ -2498,51 +1546,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "chronicles-of-vampires-origins",
-    "releases": [
-      {"id": "000480044B565745"}
-    ],
-    "title": "Chronicles of Vampires: Origins"
-  },
-  {
-    "compatibility": 99,
-    "directory": "chronicles-of-vampires-the-awakening",
-    "releases": [
-      {"id": "000480044B565645"}
-    ],
-    "title": "Chronicles of Vampires:  The Awakening"
-  },
-  {
-    "compatibility": 99,
-    "directory": "chronos-twins",
-    "releases": [
-      {"id": "000480044B395445"}
-    ],
-    "title": "Chronos Twins"
-  },
-  {
-    "compatibility": 99,
     "directory": "chronus-arc",
     "releases": [
       {"id": "0004000000179000"}
     ],
     "title": "Chronus Arc"
-  },
-  {
-    "compatibility": 99,
-    "directory": "chuck-e-cheeses-alien-defense-force",
-    "releases": [
-      {"id": "000480044B555145"}
-    ],
-    "title": "Chuck E. Cheese's Alien Defense Force"
-  },
-  {
-    "compatibility": 99,
-    "directory": "chuck-e-cheeses-arcade-room",
-    "releases": [
-      {"id": "000480044B554345"}
-    ],
-    "title": "Chuck E. Cheese's Arcade Room"
   },
   {
     "compatibility": 1,
@@ -2570,14 +1578,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "clash-of-elementalists",
-    "releases": [
-      {"id": "000480044B564C45"}
-    ],
-    "title": "Clash of Elementalists"
-  },
-  {
-    "compatibility": 99,
     "directory": "classic-games-overload-card-and-puzzle-edition",
     "releases": [
       {"id": "0004000000091700"}
@@ -2599,30 +1599,6 @@
       {"id": "00040000000CDB00"}
     ],
     "title": "Clu Clu Land"
-  },
-  {
-    "compatibility": 99,
-    "directory": "clubhouse-games-express-card-classics",
-    "releases": [
-      {"id": "000480044B545254"}
-    ],
-    "title": "Clubhouse Games Express: Card Classics"
-  },
-  {
-    "compatibility": 99,
-    "directory": "clubhouse-games-express-family-favorites",
-    "releases": [
-      {"id": "000480044B544354"}
-    ],
-    "title": "Clubhouse Games Express:  Family Favorites"
-  },
-  {
-    "compatibility": 99,
-    "directory": "clubhouse-games-express-strategy-pack",
-    "releases": [
-      {"id": "000480044B544454"}
-    ],
-    "title": "Clubhouse Games Express:  Strategy Pack"
   },
   {
     "compatibility": 99,
@@ -2674,14 +1650,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "color-commando",
-    "releases": [
-      {"id": "000480044B584645"}
-    ],
-    "title": "Color Commando"
-  },
-  {
-    "compatibility": 99,
     "directory": "color-cubes",
     "releases": [
       {"id": "000400000F709A00"}
@@ -2730,22 +1698,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "come-on-dragons",
-    "releases": [
-      {"id": "000480044B583445"}
-    ],
-    "title": "Come On! Dragons"
-  },
-  {
-    "compatibility": 99,
-    "directory": "come-on-heroes",
-    "releases": [
-      {"id": "000480044B4E4845"}
-    ],
-    "title": "Come On! Heroes"
-  },
-  {
-    "compatibility": 99,
     "directory": "comic-workshop",
     "releases": [
       {"id": "000400000013EA00"}
@@ -2759,14 +1711,6 @@
       {"id": "0004000000167F00"}
     ],
     "title": "Comic Workshop 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "commando-steel-disaster",
-    "releases": [
-      {"id": "000480044B433745"}
-    ],
-    "title": "Commando: Steel Disaster"
   },
   {
     "compatibility": 2,
@@ -2825,14 +1769,6 @@
     "title": "Corpse Party"
   },
   {
-    "compatibility": 99,
-    "directory": "cosmo-fighters",
-    "releases": [
-      {"id": "000480044B435845"}
-    ],
-    "title": "Cosmo Fighters"
-  },
-  {
     "compatibility": 2,
     "directory": "crash-city-mayhem",
     "releases": [
@@ -2855,14 +1791,6 @@
       {"id": "00040000000B6E00"}
     ],
     "title": "Crashmo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crazy-cheebo-puzzle-party",
-    "releases": [
-      {"id": "000480044B435145"}
-    ],
-    "title": "Crazy Cheebo: Puzzle Party"
   },
   {
     "compatibility": 99,
@@ -2890,59 +1818,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "crazy-golf",
-    "releases": [
-      {"id": "000480044B5A4745"}
-    ],
-    "title": "Crazy Golf"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crazy-hamster",
-    "releases": [
-      {"id": "000480044B4B3245"}
-    ],
-    "title": "Crazy Hamster"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crazy-hunter",
-    "releases": [
-      {"id": "000480044B564845"}
-    ],
-    "title": "Crazy Hunter"
-  },
-  {
-    "compatibility": 99,
     "directory": "crazy-kangaroo",
     "releases": [
       {"id": "0004000000092400"}
     ],
     "title": "Crazy Kangaroo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crazy-pinball",
-    "releases": [
-      {"id": "000480044B434945"}
-    ],
-    "title": "Crazy Pinball"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crazy-sudoku",
-    "releases": [
-      {"id": "000480044B435245"}
-    ],
-    "title": "Crazy Sudoku"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crazy-train",
-    "releases": [
-      {"id": "000480044B355545"}
-    ],
-    "title": "Crazy Train"
   },
   {
     "compatibility": 0,
@@ -2983,30 +1863,6 @@
       {"id": "0004000000037100"}
     ],
     "title": "Crush3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crystal-adventure",
-    "releases": [
-      {"id": "000480044B584445"}
-    ],
-    "title": "Crystal Adventure"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crystal-caverns-of-amon-ra",
-    "releases": [
-      {"id": "000480044B515145"}
-    ],
-    "title": "Crystal Caverns of Amon-Ra"
-  },
-  {
-    "compatibility": 99,
-    "directory": "crystal-monsters",
-    "releases": [
-      {"id": "000480044B434F45"}
-    ],
-    "title": "Crystal Monsters"
   },
   {
     "compatibility": 99,
@@ -3081,28 +1937,12 @@
     "title": "CUP CRITTERS"
   },
   {
-    "compatibility": 99,
-    "directory": "curling-super-championship",
-    "releases": [
-      {"id": "000480044B564345"}
-    ],
-    "title": "Curling Super Championship"
-  },
-  {
     "compatibility": 1,
     "directory": "cursed-castilla",
     "releases": [
       {"id": "00040000001BF000"}
     ],
     "title": "Cursed Castilla"
-  },
-  {
-    "compatibility": 99,
-    "directory": "cut-the-rope",
-    "releases": [
-      {"id": "000480044B4B5445"}
-    ],
-    "title": "Cut The Rope"
   },
   {
     "compatibility": 99,
@@ -3122,27 +1962,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "cute-witch-runner",
-    "releases": [
-      {"id": "000480044B333245"}
-    ],
-    "title": "Cute Witch! runner"
-  },
-  {
-    "compatibility": 99,
     "directory": "cycle-of-eternity",
     "releases": [
       {"id": "000400000F710000"}
     ],
     "title": "Cycle of Eternity"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dairojo-samurai-defenders",
-    "releases": [
-      {"id": "000480044B463345"}
-    ],
-    "title": "Dairojo! Samurai Defenders"
   },
   {
     "compatibility": 99,
@@ -3162,35 +1986,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "dark-void-zero",
-    "releases": [
-      {"id": "000480044B445645"}
-    ],
-    "title": "Dark Void Zero"
-  },
-  {
-    "compatibility": 99,
     "directory": "darts-up-3d",
     "releases": [
       {"id": "00040000000EB200"}
     ],
     "title": "Darts Up 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "datamine",
-    "releases": [
-      {"id": "000480044B443845"}
-    ],
-    "title": "Datamine"
-  },
-  {
-    "compatibility": 99,
-    "directory": "date-or-ditch",
-    "releases": [
-      {"id": "000480044B443245"}
-    ],
-    "title": "Date or Ditch"
   },
   {
     "compatibility": 1,
@@ -3209,28 +2009,12 @@
     "title": "Deca Sports Extreme"
   },
   {
-    "compatibility": 99,
-    "directory": "decathlon-2012",
-    "releases": [
-      {"id": "000480044B554945"}
-    ],
-    "title": "Decathlon 2012"
-  },
-  {
     "compatibility": 0,
     "directory": "dededes-drum-dash-deluxe",
     "releases": [
       {"id": "0004000000147A00"}
     ],
     "title": "Dedede’s Drum Dash Deluxe"
-  },
-  {
-    "compatibility": 99,
-    "directory": "deep-sea-creatures",
-    "releases": [
-      {"id": "000480044B364245"}
-    ],
-    "title": "DEEP SEA CREATURES"
   },
   {
     "compatibility": 0,
@@ -3263,22 +2047,6 @@
       {"id": "000400000009C200"}
     ],
     "title": "Defenders of Oasis"
-  },
-  {
-    "compatibility": 99,
-    "directory": "defense-of-the-middle-kingdom",
-    "releases": [
-      {"id": "000480044B333545"}
-    ],
-    "title": "Defense of the Middle Kingdom"
-  },
-  {
-    "compatibility": 99,
-    "directory": "delbo",
-    "releases": [
-      {"id": "000480044B444245"}
-    ],
-    "title": "Delbo"
   },
   {
     "compatibility": 2,
@@ -3321,28 +2089,12 @@
     "title": "Detective Pikachu Special Demo"
   },
   {
-    "compatibility": 99,
-    "directory": "devil-band-rock-the-underworld",
-    "releases": [
-      {"id": "000480044B4E3245"}
-    ],
-    "title": "Devil Band -  Rock the Underworld"
-  },
-  {
     "compatibility": 1,
     "directory": "dig-dug",
     "releases": [
       {"id": "000400000009DE00"}
     ],
     "title": "DIG DUG"
-  },
-  {
-    "compatibility": 99,
-    "directory": "digger-dan-and-kaboom",
-    "releases": [
-      {"id": "000480044B424845"}
-    ],
-    "title": "Digger Dan & Kaboom"
   },
   {
     "compatibility": 99,
@@ -3391,14 +2143,6 @@
       {"id": "00040000000A2D00"}
     ],
     "title": "Disney Epic Mickey: Power of Illusion"
-  },
-  {
-    "compatibility": 99,
-    "directory": "disney-fireworks",
-    "releases": [
-      {"id": "000480044B445345"}
-    ],
-    "title": "Disney Fireworks"
   },
   {
     "compatibility": 1,
@@ -3471,30 +2215,6 @@
       {"id": "000400000F70BB00"}
     ],
     "title": "DodgeBox"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dodogo",
-    "releases": [
-      {"id": "000480044B444445"}
-    ],
-    "title": "DodoGo!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dodogo-challenge",
-    "releases": [
-      {"id": "000480044B444A45"}
-    ],
-    "title": "DodoGo! Challenge"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dodogo-robo",
-    "releases": [
-      {"id": "000480044B473545"}
-    ],
-    "title": "DodoGo! Robo"
   },
   {
     "compatibility": 99,
@@ -3610,43 +2330,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "dont-cross-the-line",
-    "releases": [
-      {"id": "000480044B4D4C45"}
-    ],
-    "title": "Don't Cross The Line"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dont-feed-the-animals",
-    "releases": [
-      {"id": "000480044B444645"}
-    ],
-    "title": "Don't Feed The Animals"
-  },
-  {
-    "compatibility": 99,
-    "directory": "doodle-fit",
-    "releases": [
-      {"id": "000480044B4B4245"}
-    ],
-    "title": "Doodle Fit"
-  },
-  {
-    "compatibility": 99,
     "directory": "dot-runner-complete-edition",
     "releases": [
       {"id": "0004000000095300"}
     ],
     "title": "Dot Runner: Complete Edition"
-  },
-  {
-    "compatibility": 99,
-    "directory": "double-bloob",
-    "releases": [
-      {"id": "000480044B4F5545"}
-    ],
-    "title": "Double Bloob"
   },
   {
     "compatibility": 99,
@@ -3690,27 +2378,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "downtown-texas-holdem",
-    "releases": [
-      {"id": "000480044B445445"}
-    ],
-    "title": "DOWNTOWN TEXAS HOLD'EM"
-  },
-  {
-    "compatibility": 99,
     "directory": "dr-mario",
     "releases": [
       {"id": "0004000000050700"}
     ],
     "title": "Dr. Mario"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dr-mario-express",
-    "releases": [
-      {"id": "000480044B443945"}
-    ],
-    "title": "Dr. Mario Express"
   },
   {
     "compatibility": 0,
@@ -3727,14 +2399,6 @@
       {"id": "000400000009C300"}
     ],
     "title": "Dr. Robotnik's Mean Bean Machine"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dracula-undead-awakening",
-    "releases": [
-      {"id": "000480044B494445"}
-    ],
-    "title": "Dracula - Undead Awakening"
   },
   {
     "compatibility": 1,
@@ -3793,36 +2457,12 @@
     "title": "Dragon Quest VIII:  Journey of the Cursed King"
   },
   {
-    "compatibility": 99,
-    "directory": "dragon-quest-wars",
-    "releases": [
-      {"id": "000480044B445145"}
-    ],
-    "title": "DRAGON QUEST WARS"
-  },
-  {
     "compatibility": 0,
     "directory": "dragon-sinker",
     "releases": [
       {"id": "00040000001B8800"}
     ],
     "title": "Dragon Sinker"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dragons-lair",
-    "releases": [
-      {"id": "000480044B444C45"}
-    ],
-    "title": "Dragon's Lair"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dragons-lair-ii-time-warp",
-    "releases": [
-      {"id": "000480044B4C5945"}
-    ],
-    "title": "Dragon's Lair II: Time Warp"
   },
   {
     "compatibility": 99,
@@ -3866,14 +2506,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "drift-street-international",
-    "releases": [
-      {"id": "000480044B494645"}
-    ],
-    "title": "Drift Street International"
-  },
-  {
-    "compatibility": 99,
     "directory": "driver-renegade",
     "releases": [
       {"id": "0004000000036000"}
@@ -3913,124 +2545,12 @@
     "title": "EarthBound"
   },
   {
-    "compatibility": 99,
-    "directory": "earthworm-jim",
-    "releases": [
-      {"id": "000480044B455745"}
-    ],
-    "title": "Earthworm Jim"
-  },
-  {
     "compatibility": 0,
     "directory": "edge",
     "releases": [
       {"id": "0004000000108B00"}
     ],
     "title": "EDGE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ej-puzzles-hooked",
-    "releases": [
-      {"id": "000480044B485745"}
-    ],
-    "title": "EJ Puzzles: Hooked"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-beatnes",
-    "releases": [
-      {"id": "000480044B454945"}
-    ],
-    "title": "Electroplankton Beatnes"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-hanenbow",
-    "releases": [
-      {"id": "000480044B454245"}
-    ],
-    "title": "Electroplankton Hanenbow"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-lumiloop",
-    "releases": [
-      {"id": "000480044B454745"}
-    ],
-    "title": "Electroplankton Lumiloop"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-luminarrow",
-    "releases": [
-      {"id": "000480044B454345"}
-    ],
-    "title": "Electroplankton Luminarrow"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-marine-crystals",
-    "releases": [
-      {"id": "000480044B454845"}
-    ],
-    "title": "Electroplankton Marine-Crystals"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-nanocarp",
-    "releases": [
-      {"id": "000480044B454645"}
-    ],
-    "title": "Electroplankton Nanocarp"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-rec-rec",
-    "releases": [
-      {"id": "000480044B454545"}
-    ],
-    "title": "Electroplankton Rec-Rec"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-sun-animalcule",
-    "releases": [
-      {"id": "000480044B454445"}
-    ],
-    "title": "Electroplankton Sun-Animalcule"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-trapy",
-    "releases": [
-      {"id": "000480044B454145"}
-    ],
-    "title": "Electroplankton Trapy"
-  },
-  {
-    "compatibility": 99,
-    "directory": "electroplankton-varvoice",
-    "releases": [
-      {"id": "000480044B454A45"}
-    ],
-    "title": "Electroplankton Varvoice"
-  },
-  {
-    "compatibility": 99,
-    "directory": "elemental-masters",
-    "releases": [
-      {"id": "000480044B454D45"}
-    ],
-    "title": "Elemental Masters"
-  },
-  {
-    "compatibility": 99,
-    "directory": "elite-forces-unit-77",
-    "releases": [
-      {"id": "000480044B343245"}
-    ],
-    "title": "Elite Forces: Unit 77"
   },
   {
     "compatibility": 99,
@@ -4079,54 +2599,6 @@
       {"id": "0004000000107B00"}
     ],
     "title": "Escape From Zombie City"
-  },
-  {
-    "compatibility": 99,
-    "directory": "escape-the-virus-shootem-up",
-    "releases": [
-      {"id": "000480044B585345"}
-    ],
-    "title": "Escape the Virus: Shoot'Em Up"
-  },
-  {
-    "compatibility": 99,
-    "directory": "escape-the-virus-swarm-survival",
-    "releases": [
-      {"id": "000480044B584545"}
-    ],
-    "title": "Escape the Virus:  Swarm Survival"
-  },
-  {
-    "compatibility": 99,
-    "directory": "escape-trick-convenience-store",
-    "releases": [
-      {"id": "000480044B354B45"}
-    ],
-    "title": "Escape Trick: Convenience Store"
-  },
-  {
-    "compatibility": 99,
-    "directory": "escape-trick-ninja-castle",
-    "releases": [
-      {"id": "000480044B455945"}
-    ],
-    "title": "Escape Trick: Ninja Castle"
-  },
-  {
-    "compatibility": 99,
-    "directory": "escape-trick-the-secret-of-rock-city-prison",
-    "releases": [
-      {"id": "000480044B355145"}
-    ],
-    "title": "Escape Trick: The Secret of Rock City Prison"
-  },
-  {
-    "compatibility": 99,
-    "directory": "escapee-go",
-    "releases": [
-      {"id": "000480044B455345"}
-    ],
-    "title": "Escapee GO!"
   },
   {
     "compatibility": 0,
@@ -4201,14 +2673,6 @@
     "title": "Ever Oasis"
   },
   {
-    "compatibility": 99,
-    "directory": "everyday-soccer",
-    "releases": [
-      {"id": "000480044B415A45"}
-    ],
-    "title": "Everyday Soccer"
-  },
-  {
     "compatibility": 1,
     "directory": "excave",
     "releases": [
@@ -4234,22 +2698,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "extreme-hangman",
-    "releases": [
-      {"id": "000480044B455845"}
-    ],
-    "title": "Extreme Hangman"
-  },
-  {
-    "compatibility": 99,
-    "directory": "extreme-hangman-2",
-    "releases": [
-      {"id": "000480044B584845"}
-    ],
-    "title": "Extreme Hangman 2"
-  },
-  {
-    "compatibility": 99,
     "directory": "f-zero",
     "releases": [
       {"id": "000400000F701900"}
@@ -4258,35 +2706,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "face-pilot-fly-with-your-nintendo-dsi-camera",
-    "releases": [
-      {"id": "000480044B594245"}
-    ],
-    "title": "Face Pilot: Fly With Your Nintendo DSi Camera!"
-  },
-  {
-    "compatibility": 99,
     "directory": "face-racers-photo-finish",
     "releases": [
       {"id": "0004000000037200"}
     ],
     "title": "Face Racers: Photo Finish"
-  },
-  {
-    "compatibility": 99,
-    "directory": "faceez",
-    "releases": [
-      {"id": "000480044B465A45"}
-    ],
-    "title": "Faceez"
-  },
-  {
-    "compatibility": 99,
-    "directory": "faceez-monsters",
-    "releases": [
-      {"id": "000480044B464D45"}
-    ],
-    "title": "Faceez! Monsters"
   },
   {
     "compatibility": 1,
@@ -4362,35 +2786,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "fantasy-slots-adventure-slots-and-games",
-    "releases": [
-      {"id": "000480044B534645"}
-    ],
-    "title": "Fantasy Slots: Adventure Slots and Games"
-  },
-  {
-    "compatibility": 99,
-    "directory": "farm-frenzy",
-    "releases": [
-      {"id": "000480044B464B45"}
-    ],
-    "title": "Farm Frenzy"
-  },
-  {
-    "compatibility": 99,
     "directory": "farming-simulator-18",
     "releases": [
       {"id": "00040000001B7900"}
     ],
     "title": "Farming Simulator 18"
-  },
-  {
-    "compatibility": 99,
-    "directory": "fashion-tycoon",
-    "releases": [
-      {"id": "000480044B553745"}
-    ],
-    "title": "Fashion Tycoon"
   },
   {
     "compatibility": 99,
@@ -4407,14 +2807,6 @@
       {"id": "00040000001CFA00"}
     ],
     "title": "Fat Dragons"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ferrari-gt-evolution",
-    "releases": [
-      {"id": "000480044B465245"}
-    ],
-    "title": "Ferrari GT: Evolution"
   },
   {
     "compatibility": 4,
@@ -4506,43 +2898,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "fire-panic",
-    "releases": [
-      {"id": "000480044B463845"}
-    ],
-    "title": "Fire Panic"
-  },
-  {
-    "compatibility": 99,
-    "directory": "fishdom",
-    "releases": [
-      {"id": "000480044B323945"}
-    ],
-    "title": "Fishdom"
-  },
-  {
-    "compatibility": 99,
     "directory": "fishdom-h2o-hidden-odyssey",
     "releases": [
       {"id": "00040000000C5900"}
     ],
     "title": "Fishdom H2O: Hidden Odyssey"
-  },
-  {
-    "compatibility": 99,
-    "directory": "fizz",
-    "releases": [
-      {"id": "000480044B5A5A45"}
-    ],
-    "title": "FIZZ"
-  },
-  {
-    "compatibility": 99,
-    "directory": "flametail",
-    "releases": [
-      {"id": "000480044B344B45"}
-    ],
-    "title": "Flametail"
   },
   {
     "compatibility": 99,
@@ -4561,44 +2921,12 @@
     "title": "Flick Golf 3D"
   },
   {
-    "compatibility": 99,
-    "directory": "flight-control",
-    "releases": [
-      {"id": "000480044B464945"}
-    ],
-    "title": "Flight Control"
-  },
-  {
-    "compatibility": 99,
-    "directory": "flip-the-core",
-    "releases": [
-      {"id": "000480044B4B5245"}
-    ],
-    "title": "Flip the Core"
-  },
-  {
-    "compatibility": 99,
-    "directory": "flipper-2-flush-the-goldfish",
-    "releases": [
-      {"id": "000480044B4B4E45"}
-    ],
-    "title": "Flipper 2 - Flush the Goldfish"
-  },
-  {
     "compatibility": 3,
     "directory": "fluidity-spin-cycle",
     "releases": [
       {"id": "00040000000AE000"}
     ],
     "title": "Fluidity: Spin Cycle"
-  },
-  {
-    "compatibility": 99,
-    "directory": "forgotten-legions",
-    "releases": [
-      {"id": "000480044B354C45"}
-    ],
-    "title": "Forgotten Legions"
   },
   {
     "compatibility": 99,
@@ -4615,14 +2943,6 @@
       {"id": "000400000012DB00"}
     ],
     "title": "Fossil Fighters: Frontier"
-  },
-  {
-    "compatibility": 99,
-    "directory": "foto-face-the-face-stealer-strikes",
-    "releases": [
-      {"id": "000480044B345445"}
-    ],
-    "title": "Foto Face: The Face Stealer Strikes"
   },
   {
     "compatibility": 99,
@@ -4649,28 +2969,12 @@
     "title": "Freakyforms Deluxe: Your Creations Alive!"
   },
   {
-    "compatibility": 99,
-    "directory": "frenzic",
-    "releases": [
-      {"id": "000480044B464F45"}
-    ],
-    "title": "Frenzic"
-  },
-  {
     "compatibility": 0,
     "directory": "frogger-3d",
     "releases": [
       {"id": "0004000000036900"}
     ],
     "title": "Frogger 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "frogger-returns",
-    "releases": [
-      {"id": "000480044B464745"}
-    ],
-    "title": "Frogger Returns"
   },
   {
     "compatibility": 99,
@@ -4706,14 +3010,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "furry-legends",
-    "releases": [
-      {"id": "000480044B345245"}
-    ],
-    "title": "Furry Legends"
-  },
-  {
-    "compatibility": 99,
     "directory": "g-loc-air-battle",
     "releases": [
       {"id": "000400000009C400"}
@@ -4738,14 +3034,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "gaias-moon",
-    "releases": [
-      {"id": "000480044B4B4745"}
-    ],
-    "title": "Gaia's Moon"
-  },
-  {
-    "compatibility": 99,
     "directory": "galaga",
     "releases": [
       {"id": "00040000000CE000"}
@@ -4767,46 +3055,6 @@
       {"id": "000400000F70D500"}
     ],
     "title": "GALAXY BLASTER CODE RED"
-  },
-  {
-    "compatibility": 99,
-    "directory": "galaxy-saver",
-    "releases": [
-      {"id": "000480044B424E45"}
-    ],
-    "title": "Galaxy Saver"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-ball",
-    "releases": [
-      {"id": "000480044B47424F"}
-    ],
-    "title": "Game & Watch: Ball"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-chef",
-    "releases": [
-      {"id": "000480044B47434F"}
-    ],
-    "title": "Game & Watch: Chef"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-donkey-kong-jr",
-    "releases": [
-      {"id": "000480044B47444F"}
-    ],
-    "title": "Game & Watch: Donkey Kong Jr."
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-flagman",
-    "releases": [
-      {"id": "000480044B47474F"}
-    ],
-    "title": "Game & Watch: Flagman"
   },
   {
     "compatibility": 2,
@@ -4834,46 +3082,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "game-and-watch-helmet",
-    "releases": [
-      {"id": "000480044B47484F"}
-    ],
-    "title": "Game & Watch: Helmet"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-judge",
-    "releases": [
-      {"id": "000480044B474A4F"}
-    ],
-    "title": "Game & Watch: Judge"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-manhole",
-    "releases": [
-      {"id": "000480044B474D4F"}
-    ],
-    "title": "Game & Watch: Manhole"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-marios-cement-factory",
-    "releases": [
-      {"id": "000480044B47464F"}
-    ],
-    "title": "Game & Watch: Mario's Cement Factory"
-  },
-  {
-    "compatibility": 99,
-    "directory": "game-and-watch-vermin",
-    "releases": [
-      {"id": "000480044B47564F"}
-    ],
-    "title": "Game & Watch: Vermin"
-  },
-  {
-    "compatibility": 99,
     "directory": "games-for-toddlers-2",
     "releases": [
       {"id": "000400000F711300"}
@@ -4887,14 +3095,6 @@
       {"id": "00040000001D7E00"}
     ],
     "title": "Games to Play on Halloween!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gangstar-2-kings-of-la",
-    "releases": [
-      {"id": "000480044B474E45"}
-    ],
-    "title": "Gangstar 2: Kings of L.A."
   },
   {
     "compatibility": 99,
@@ -4954,246 +3154,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "gg-series-air-pinball-hockey",
-    "releases": [
-      {"id": "000480044B323545"}
-    ],
-    "title": "G.G Series AIR PINBALL HOCKEY"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-all-breaker",
-    "releases": [
-      {"id": "000480044B323745"}
-    ],
-    "title": "G.G Series ALL BREAKER"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-altered-weapon",
-    "releases": [
-      {"id": "000480044B325A45"}
-    ],
-    "title": "G.G. Series ALTERED WEAPON"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-assault-buster",
-    "releases": [
-      {"id": "000480044B414245"}
-    ],
-    "title": "G.G. Series ASSAULT BUSTER"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-black-x-block",
-    "releases": [
-      {"id": "000480044B393645"}
-    ],
-    "title": "G.G. Series BLACK X BLOCK"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-conveyor-toy-packing",
-    "releases": [
-      {"id": "000480044B483545"}
-    ],
-    "title": "G.G Series CONVEYOR TOY PACKING"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-cosmo-rally",
-    "releases": [
-      {"id": "000480044B354445"}
-    ],
-    "title": "G.G. Series COSMO RALLY!!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-d-tank",
-    "releases": [
-      {"id": "000480044B544145"}
-    ],
-    "title": "G.G Series D-TANK"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-dark-spirits",
-    "releases": [
-      {"id": "000480044B534445"}
-    ],
-    "title": "G.G Series Dark Spirits"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-drift-circuit",
-    "releases": [
-      {"id": "000480044B324345"}
-    ],
-    "title": "G.G Series DRIFT CIRCUIT"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-drilling-attack",
-    "releases": [
-      {"id": "000480044B444145"}
-    ],
-    "title": "G.G Series DRILLING ATTACK!!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-energy-chain",
-    "releases": [
-      {"id": "000480044B443745"}
-    ],
-    "title": "G.G Series ENERGY CHAIN"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-exciting-river",
-    "releases": [
-      {"id": "000480044B455245"}
-    ],
-    "title": "G.G. Series EXCITING RIVER"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-great-whip-adventure",
-    "releases": [
-      {"id": "000480044B565145"}
-    ],
-    "title": "G.G Series GREAT WHIP ADVENTURE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-hero-puzzle",
-    "releases": [
-      {"id": "000480044B354545"}
-    ],
-    "title": "G.G. Series HERO PUZZLE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-horizontal-bar",
-    "releases": [
-      {"id": "000480044B543245"}
-    ],
-    "title": "G.G Series HORIZONTAL BAR"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-ninja-karakuri-den",
-    "releases": [
-      {"id": "000480044B415145"}
-    ],
-    "title": "G.G Series NINJA KARAKURI DEN"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-nyokki",
-    "releases": [
-      {"id": "000480044B553945"}
-    ],
-    "title": "G.G Series NYOKKI"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-run-and-strike",
-    "releases": [
-      {"id": "000480044B354645"}
-    ],
-    "title": "G.G Series RUN & STRIKE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-score-attacker",
-    "releases": [
-      {"id": "000480044B354745"}
-    ],
-    "title": "G.G Series SCORE ATTACKER"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-shadow-army",
-    "releases": [
-      {"id": "000480044B5A4A45"}
-    ],
-    "title": "G.G Series SHADOW ARMY"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-super-hero-ogre",
-    "releases": [
-      {"id": "000480044B4F4745"}
-    ],
-    "title": "G.G Series SUPER HERO OGRE"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-the-hidden-ninja-kagemaru",
-    "releases": [
-      {"id": "000480044B354A45"}
-    ],
-    "title": "G.G Series THE HIDDEN NINJA KAGEMARU"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-the-last-knight",
-    "releases": [
-      {"id": "000480044B354D45"}
-    ],
-    "title": "G.G Series THE LAST KNIGHT"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-the-spiky-blowfish",
-    "releases": [
-      {"id": "000480044B354E45"}
-    ],
-    "title": "G.G. Series THE SPIKY BLOWFISH!!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-throw-out",
-    "releases": [
-      {"id": "000480044B334F45"}
-    ],
-    "title": "G.G Series THROW OUT"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-vector",
-    "releases": [
-      {"id": "000480044B354F45"}
-    ],
-    "title": "G.G Series VECTOR"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-vertex",
-    "releases": [
-      {"id": "000480044B564545"}
-    ],
-    "title": "G.G Series VERTEX"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-wonderland",
-    "releases": [
-      {"id": "000480044B574C45"}
-    ],
-    "title": "G.G. Series WONDERLAND"
-  },
-  {
-    "compatibility": 99,
-    "directory": "gg-series-zone",
-    "releases": [
-      {"id": "000480044B4E5A45"}
-    ],
-    "title": "G.G Series Z•ONE"
-  },
-  {
-    "compatibility": 99,
     "directory": "ghostsn-goblins",
     "releases": [
       {"id": "0004000000099500"}
@@ -5226,14 +3186,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "go-go-island-rescue",
-    "releases": [
-      {"id": "000480044B475145"}
-    ],
-    "title": "Go! Go! Island Rescue!"
-  },
-  {
-    "compatibility": 99,
     "directory": "go-go-kokopolo-3d",
     "releases": [
       {"id": "00040000000B7800"}
@@ -5242,35 +3194,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "gold-fever",
-    "releases": [
-      {"id": "000480044B473745"}
-    ],
-    "title": "Gold Fever"
-  },
-  {
-    "compatibility": 99,
     "directory": "golf",
     "releases": [
       {"id": "0004000000042B00"}
     ],
     "title": "Golf"
-  },
-  {
-    "compatibility": 99,
-    "directory": "goony",
-    "releases": [
-      {"id": "000480044B584B45"}
-    ],
-    "title": "Goony"
-  },
-  {
-    "compatibility": 99,
-    "directory": "goooooal-america",
-    "releases": [
-      {"id": "000480044B394145"}
-    ],
-    "title": "Goooooal América"
   },
   {
     "compatibility": 0,
@@ -5442,14 +3370,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "hands-on-tangrams",
-    "releases": [
-      {"id": "000480044B595945"}
-    ],
-    "title": "Hands On! Tangrams"
-  },
-  {
-    "compatibility": 99,
     "directory": "happy-circus",
     "releases": [
       {"id": "00040000000EBC00"}
@@ -5546,22 +3466,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "hearts-spades-euchre",
-    "releases": [
-      {"id": "000480044B485145"}
-    ],
-    "title": "Hearts Spades Euchre"
-  },
-  {
-    "compatibility": 99,
-    "directory": "heathcliff-spot-on",
-    "releases": [
-      {"id": "000480044B365345"}
-    ],
-    "title": "HeathCliff Spot On"
-  },
-  {
-    "compatibility": 99,
     "directory": "heavy-fire-black-arms-3d",
     "releases": [
       {"id": "00040000000C4000"}
@@ -5599,22 +3503,6 @@
       {"id": "0004000000175100"}
     ],
     "title": "Hello Kitty's Magic Apron"
-  },
-  {
-    "compatibility": 99,
-    "directory": "hellokids-vol-1-coloring-and-painting",
-    "releases": [
-      {"id": "000480044B4B4945"}
-    ],
-    "title": "Hellokids - Vol. 1: Coloring and Painting"
-  },
-  {
-    "compatibility": 99,
-    "directory": "hero-of-sparta",
-    "releases": [
-      {"id": "000480044B344845"}
-    ],
-    "title": "Hero of Sparta"
   },
   {
     "compatibility": 3,
@@ -5666,30 +3554,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "high-stakes-texas-holdem",
-    "releases": [
-      {"id": "000480044B545845"}
-    ],
-    "title": "High Stakes: Texas Hold'Em"
-  },
-  {
-    "compatibility": 99,
-    "directory": "hints-hunter",
-    "releases": [
-      {"id": "000480044B484945"}
-    ],
-    "title": "Hints Hunter"
-  },
-  {
-    "compatibility": 99,
-    "directory": "hip-hop-king-rytmik-edition",
-    "releases": [
-      {"id": "000480044B525645"}
-    ],
-    "title": "Hip Hop King: Rytmik Edition"
-  },
-  {
-    "compatibility": 99,
     "directory": "hit-ninja",
     "releases": [
       {"id": "000400000F709500"}
@@ -5730,67 +3594,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "hospital-havoc",
-    "releases": [
-      {"id": "000480044B484845"}
-    ],
-    "title": "Hospital Havoc"
-  },
-  {
-    "compatibility": 99,
-    "directory": "hot-and-cold-a-3d-hidden-object-adventure",
-    "releases": [
-      {"id": "000480044B484345"}
-    ],
-    "title": "Hot and Cold: A 3D Hidden Object Adventure"
-  },
-  {
-    "compatibility": 99,
     "directory": "hotel-transylvania",
     "releases": [
       {"id": "00040000000A2600"}
     ],
     "title": "Hotel Transylvania"
-  },
-  {
-    "compatibility": 99,
-    "directory": "house-md-blue-meanie",
-    "releases": [
-      {"id": "000480044B494845"}
-    ],
-    "title": "House M.D. - Blue Meanie"
-  },
-  {
-    "compatibility": 99,
-    "directory": "house-md-crashed",
-    "releases": [
-      {"id": "000480044B493445"}
-    ],
-    "title": "House M.D. - Crashed"
-  },
-  {
-    "compatibility": 99,
-    "directory": "house-md-globetrotting",
-    "releases": [
-      {"id": "000480044B475A45"}
-    ],
-    "title": "House M.D. - Globetrotting"
-  },
-  {
-    "compatibility": 99,
-    "directory": "house-md-skull-and-bones",
-    "releases": [
-      {"id": "000480044B493345"}
-    ],
-    "title": "House M.D. - Skull and Bones"
-  },
-  {
-    "compatibility": 99,
-    "directory": "house-md-under-the-big-top",
-    "releases": [
-      {"id": "000480044B494A45"}
-    ],
-    "title": "House M.D. - Under The Big Top"
   },
   {
     "compatibility": 99,
@@ -5831,14 +3639,6 @@
       {"id": "00040000001C3F00"}
     ],
     "title": "I am an air traffic controller AIRPORT HERO OSAKA-KIX"
-  },
-  {
-    "compatibility": 99,
-    "directory": "i-am-in-the-movie",
-    "releases": [
-      {"id": "000480044B584A45"}
-    ],
-    "title": "I am in the movie"
   },
   {
     "compatibility": 99,
@@ -5890,14 +3690,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "i-must-run",
-    "releases": [
-      {"id": "000480044B555245"}
-    ],
-    "title": "I Must Run!"
-  },
-  {
-    "compatibility": 99,
     "directory": "ice-age-continental-drift-arctic-games",
     "releases": [
       {"id": "0004000000086900"}
@@ -5938,14 +3730,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "ikibago",
-    "releases": [
-      {"id": "000480044B494245"}
-    ],
-    "title": "Ikibago"
-  },
-  {
-    "compatibility": 99,
     "directory": "imagine-babyz",
     "releases": [
       {"id": "000400000004C300"}
@@ -5967,14 +3751,6 @@
       {"id": "0004000000112B00"}
     ],
     "title": "INAZUMA ELEVEN"
-  },
-  {
-    "compatibility": 99,
-    "directory": "inchworm-animation",
-    "releases": [
-      {"id": "000480044B495745"}
-    ],
-    "title": "Inchworm Animation"
   },
   {
     "compatibility": 1,
@@ -6001,28 +3777,12 @@
     "title": "Insect Planet TD"
   },
   {
-    "compatibility": 99,
-    "directory": "invasion-of-the-alien-blobs",
-    "releases": [
-      {"id": "000480044B425445"}
-    ],
-    "title": "Invasion of the Alien Blobs!"
-  },
-  {
     "compatibility": 0,
     "directory": "ironfall-invasion",
     "releases": [
       {"id": "000400000015D800"}
     ],
     "title": "IRONFALL Invasion"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ispot-japan",
-    "releases": [
-      {"id": "000480044B334A45"}
-    ],
-    "title": "iSpot Japan"
   },
   {
     "compatibility": 99,
@@ -6039,14 +3799,6 @@
       {"id": "00040000001CBC00"}
     ],
     "title": "Jake Hunter Detective Story:   Ghost of the Dusk"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jam-space-pocketstudio",
-    "releases": [
-      {"id": "000480044B4A4D45"}
-    ],
-    "title": "Jam Space: PocketStudio"
   },
   {
     "compatibility": 0,
@@ -6137,52 +3889,12 @@
     "title": "Jaws: Ultimate Predator"
   },
   {
-    "compatibility": 99,
-    "directory": "jazzy-billiards",
-    "releases": [
-      {"id": "000480044B394245"}
-    ],
-    "title": "Jazzy Billiards"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jellycar-2",
-    "releases": [
-      {"id": "000480044B4A5945"}
-    ],
-    "title": "JellyCar 2"
-  },
-  {
     "compatibility": 0,
     "directory": "jett-rocket-ii-the-wrath-of-taikai",
     "releases": [
       {"id": "0004000000087100"}
     ],
     "title": "Jett Rocket II: The Wrath of Taikai"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jewel-adventures",
-    "releases": [
-      {"id": "000480044B594A45"}
-    ],
-    "title": "Jewel Adventures"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jewel-keepers-easter-island",
-    "releases": [
-      {"id": "000480044B4A4245"}
-    ],
-    "title": "Jewel Keepers: Easter Island"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jewel-legends-tree-of-life",
-    "releases": [
-      {"id": "000480044B554B45"}
-    ],
-    "title": "Jewel Legends - Tree of Life"
   },
   {
     "compatibility": 99,
@@ -6202,14 +3914,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "jewel-match",
-    "releases": [
-      {"id": "000480044B374645"}
-    ],
-    "title": "Jewel Match"
-  },
-  {
-    "compatibility": 99,
     "directory": "jewel-match-3",
     "releases": [
       {"id": "00040000000CFE00"}
@@ -6220,25 +3924,9 @@
     "compatibility": 99,
     "directory": "jewel-quest-4-heritage",
     "releases": [
-      {"id": "000480044B343345"}
-    ],
-    "title": "Jewel Quest 4 Heritage"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jewel-quest-4-heritage",
-    "releases": [
       {"id": "00040000000DDC00"}
     ],
     "title": "Jewel Quest 4 Heritage"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jewel-quest-5-the-sleepless-star",
-    "releases": [
-      {"id": "000480044B333645"}
-    ],
-    "title": "Jewel Quest 5 - The Sleepless Star"
   },
   {
     "compatibility": 99,
@@ -6297,22 +3985,6 @@
     "title": "Journey to Kreisia"
   },
   {
-    "compatibility": 99,
-    "directory": "jump-trials",
-    "releases": [
-      {"id": "000480044B4A5045"}
-    ],
-    "title": "Jump Trials"
-  },
-  {
-    "compatibility": 99,
-    "directory": "jump-trials-extreme",
-    "releases": [
-      {"id": "000480044B5A4345"}
-    ],
-    "title": "Jump Trials Extreme"
-  },
-  {
     "compatibility": 0,
     "directory": "jump-trials-supreme",
     "releases": [
@@ -6351,14 +4023,6 @@
       {"id": "0004000000150600"}
     ],
     "title": "KAROUS - THE BEAST OF RE:EDEN -"
-  },
-  {
-    "compatibility": 99,
-    "directory": "kart-krashers",
-    "releases": [
-      {"id": "000480044B364B45"}
-    ],
-    "title": "Kart Krashers"
   },
   {
     "compatibility": 1,
@@ -6689,14 +4353,6 @@
     "title": "Legend of the River King 2"
   },
   {
-    "compatibility": 99,
-    "directory": "legendary-wars-t-rex-rumble",
-    "releases": [
-      {"id": "000480044B4C4445"}
-    ],
-    "title": "Legendary Wars: T-Rex Rumble"
-  },
-  {
     "compatibility": 0,
     "directory": "legna-tactica",
     "releases": [
@@ -6809,14 +4465,6 @@
     "title": "LEGO Star Wars: The Force Awakens"
   },
   {
-    "compatibility": 99,
-    "directory": "lets-create-pottery",
-    "releases": [
-      {"id": "000480044B4C4A45"}
-    ],
-    "title": "Let's Create! Pottery"
-  },
-  {
     "compatibility": 0,
     "directory": "lets-golf-3d",
     "releases": [
@@ -6866,14 +4514,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "link-n-launch",
-    "releases": [
-      {"id": "000480044B505445"}
-    ],
-    "title": "Link 'n' Launch"
-  },
-  {
-    "compatibility": 99,
     "directory": "lionel-city-builder-3d-rise-of-the-rails",
     "releases": [
       {"id": "0004000000151300"}
@@ -6898,27 +4538,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "little-red-riding-hoods-zombie-bbq",
-    "releases": [
-      {"id": "000480044B5A4245"}
-    ],
-    "title": "Little Red Riding Hood's Zombie BBQ"
-  },
-  {
-    "compatibility": 99,
     "directory": "lockn-chase",
     "releases": [
       {"id": "0004000000059A00"}
     ],
     "title": "Lock'N Chase"
-  },
-  {
-    "compatibility": 99,
-    "directory": "looksleys-line-up",
-    "releases": [
-      {"id": "000480044B524745"}
-    ],
-    "title": "Looksley's Line Up"
   },
   {
     "compatibility": 3,
@@ -6927,14 +4551,6 @@
       {"id": "0004000000164300"}
     ],
     "title": "Lord of Magna: Maiden Heaven"
-  },
-  {
-    "compatibility": 99,
-    "directory": "lost-treasures-of-alexandria",
-    "releases": [
-      {"id": "000480044B354245"}
-    ],
-    "title": "Lost Treasures of Alexandria"
   },
   {
     "compatibility": 99,
@@ -7026,30 +4642,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "maestro-green-groove",
-    "releases": [
-      {"id": "000480044B4D5545"}
-    ],
-    "title": "Maestro! Green Groove"
-  },
-  {
-    "compatibility": 99,
-    "directory": "magical-diary-secrets-sharing",
-    "releases": [
-      {"id": "000480044B373345"}
-    ],
-    "title": "Magical Diary: Secrets Sharing"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mahjong",
-    "releases": [
-      {"id": "000480044B4A4A45"}
-    ],
-    "title": "Mahjong"
-  },
-  {
-    "compatibility": 99,
     "directory": "mahjong-3d-essentials",
     "releases": [
       {"id": "00040000000F2B00"}
@@ -7079,14 +4671,6 @@
       {"id": "00040000000C0F00"}
     ],
     "title": "Mahjong Mysteries - Ancient Athena"
-  },
-  {
-    "compatibility": 99,
-    "directory": "make-up-and-style",
-    "releases": [
-      {"id": "000480044B594C45"}
-    ],
-    "title": "Make Up & Style"
   },
   {
     "compatibility": 0,
@@ -7135,22 +4719,6 @@
       {"id": "00040000000BD000"}
     ],
     "title": "Mario Bros"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mario-calculator",
-    "releases": [
-      {"id": "000480044B574645"}
-    ],
-    "title": "Mario Calculator"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mario-clock",
-    "releases": [
-      {"id": "000480044B574245"}
-    ],
-    "title": "Mario Clock"
   },
   {
     "compatibility": 99,
@@ -7233,14 +4801,6 @@
     "title": "Mario Tennis Open"
   },
   {
-    "compatibility": 99,
-    "directory": "mario-vs-donkey-kong-minis-march-again",
-    "releases": [
-      {"id": "000480044B444D45"}
-    ],
-    "title": "Mario vs. Donkey Kong: Minis March Again!"
-  },
-  {
     "compatibility": 2,
     "directory": "mario-vs-donkey-kong-tipping-stars",
     "releases": [
@@ -7282,75 +4842,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "master-of-illusion-express-deep-psyche",
-    "releases": [
-      {"id": "000480044B4D3954"}
-    ],
-    "title": "Master of Illusion Express: Deep Psyche"
-  },
-  {
-    "compatibility": 99,
-    "directory": "master-of-illusion-express-funny-face",
-    "releases": [
-      {"id": "000480044B4D4654"}
-    ],
-    "title": "Master of Illusion Express: Funny Face"
-  },
-  {
-    "compatibility": 99,
-    "directory": "master-of-illusion-express-matchmaker",
-    "releases": [
-      {"id": "000480044B4D4454"}
-    ],
-    "title": "Master of Illusion Express: Matchmaker"
-  },
-  {
-    "compatibility": 99,
-    "directory": "master-of-illusion-express-mind-probe",
-    "releases": [
-      {"id": "000480044B4D4954"}
-    ],
-    "title": "Master of Illusion Express: Mind Probe"
-  },
-  {
-    "compatibility": 99,
-    "directory": "master-of-illusion-express-psychic-camera",
-    "releases": [
-      {"id": "000480044B4D4E54"}
-    ],
-    "title": "Master of Illusion Express: Psychic Camera"
-  },
-  {
-    "compatibility": 99,
-    "directory": "master-of-illusion-express-shuffle-games",
-    "releases": [
-      {"id": "000480044B4D5354"}
-    ],
-    "title": "Master of Illusion Express: Shuffle Games"
-  },
-  {
-    "compatibility": 99,
     "directory": "masyu-by-nikoli",
     "releases": [
       {"id": "000400000008CF00"}
     ],
     "title": "Masyu by Nikoli"
-  },
-  {
-    "compatibility": 99,
-    "directory": "match-up",
-    "releases": [
-      {"id": "000480044B555045"}
-    ],
-    "title": "Match Up!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "me-and-my-dogs-friends-forever",
-    "releases": [
-      {"id": "000480044B4D3845"}
-    ],
-    "title": "Me And My Dogs: Friends Forever"
   },
   {
     "compatibility": 99,
@@ -7514,14 +5010,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "mega-words",
-    "releases": [
-      {"id": "000480044B574B45"}
-    ],
-    "title": "Mega Words"
-  },
-  {
-    "compatibility": 99,
     "directory": "mercenaries-saga-2",
     "releases": [
       {"id": "000400000016CC00"}
@@ -7551,14 +5039,6 @@
       {"id": "0004000000081E00"}
     ],
     "title": "METAL GEAR SOLID SNAKE EATER 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "metal-torrent",
-    "releases": [
-      {"id": "000480044B353945"}
-    ],
-    "title": "Metal Torrent"
   },
   {
     "compatibility": 2,
@@ -7617,14 +5097,6 @@
     "title": "MH3U Data Transfer Program"
   },
   {
-    "compatibility": 99,
-    "directory": "miami-nights-life-in-the-spotlight",
-    "releases": [
-      {"id": "000480044B4D4545"}
-    ],
-    "title": "Miami Nights: Life in the Spotlight"
-  },
-  {
     "compatibility": 0,
     "directory": "michael-jackson-the-experience",
     "releases": [
@@ -7649,14 +5121,6 @@
     "title": "Mighty Final Fight"
   },
   {
-    "compatibility": 99,
-    "directory": "mighty-flip-champs",
-    "releases": [
-      {"id": "000480044B4D4745"}
-    ],
-    "title": "Mighty Flip Champs!"
-  },
-  {
     "compatibility": 0,
     "directory": "mighty-gunvolt",
     "releases": [
@@ -7671,14 +5135,6 @@
       {"id": "00040000001C7700"}
     ],
     "title": "MIGHTY GUNVOLT BURST"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mighty-milky-way",
-    "releases": [
-      {"id": "000480044B575945"}
-    ],
-    "title": "Mighty Milky Way"
   },
   {
     "compatibility": 0,
@@ -7753,28 +5209,12 @@
     "title": "Mini Sports Collection"
   },
   {
-    "compatibility": 99,
-    "directory": "mixed-messages",
-    "releases": [
-      {"id": "000480044B4D4D45"}
-    ],
-    "title": "Mixed Messages"
-  },
-  {
     "compatibility": 3,
     "directory": "moco-moco-friends",
     "releases": [
       {"id": "000400000017F200"}
     ],
     "title": "Moco Moco Friends"
-  },
-  {
-    "compatibility": 99,
-    "directory": "moke-moke",
-    "releases": [
-      {"id": "000480044B4E5945"}
-    ],
-    "title": "Moke Moke"
   },
   {
     "compatibility": 99,
@@ -7898,30 +5338,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "moto-extreme",
-    "releases": [
-      {"id": "000480044B4F5845"}
-    ],
-    "title": "Moto eXtreme"
-  },
-  {
-    "compatibility": 99,
-    "directory": "move-your-brain-rollway-puzzle",
-    "releases": [
-      {"id": "000480044B4D4F45"}
-    ],
-    "title": "Move your Brain Rollway Puzzle"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mr-driller-drill-till-you-drop",
-    "releases": [
-      {"id": "000480044B445245"}
-    ],
-    "title": "Mr. DRILLER: Drill Till You Drop"
-  },
-  {
-    "compatibility": 99,
     "directory": "murder-on-the-titanic",
     "releases": [
       {"id": "00040000000C1100"}
@@ -7930,75 +5346,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "music-on-acoustic-guitar",
-    "releases": [
-      {"id": "000480044B473645"}
-    ],
-    "title": "Music on: Acoustic Guitar"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-drums",
-    "releases": [
-      {"id": "000480044B514445"}
-    ],
-    "title": "Music on: Drums"
-  },
-  {
-    "compatibility": 99,
     "directory": "music-on-electric-guitar",
     "releases": [
       {"id": "0004000000164500"}
     ],
     "title": "Music On: Electric Guitar"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-electric-guitar",
-    "releases": [
-      {"id": "000480044B494545"}
-    ],
-    "title": "Music on: Electric Guitar"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-electronic-keyboard",
-    "releases": [
-      {"id": "000480044B4B3745"}
-    ],
-    "title": "Music on: Electronic Keyboard"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-learning-piano",
-    "releases": [
-      {"id": "000480044B383845"}
-    ],
-    "title": "Music on: Learning Piano"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-learning-piano-volume-2",
-    "releases": [
-      {"id": "000480044B493745"}
-    ],
-    "title": "Music on: Learning Piano Volume 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-playing-piano",
-    "releases": [
-      {"id": "000480044B494345"}
-    ],
-    "title": "Music on: Playing Piano"
-  },
-  {
-    "compatibility": 99,
-    "directory": "music-on-retro-keyboard",
-    "releases": [
-      {"id": "000480044B524845"}
-    ],
-    "title": "Music on: Retro Keyboard"
   },
   {
     "compatibility": 99,
@@ -8026,30 +5378,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "my-aquarium-seven-oceans",
-    "releases": [
-      {"id": "000480044B375A45"}
-    ],
-    "title": "MY AQUARIUM: SEVEN OCEANS"
-  },
-  {
-    "compatibility": 99,
-    "directory": "my-asian-farm",
-    "releases": [
-      {"id": "000480044B4C3345"}
-    ],
-    "title": "My Asian Farm"
-  },
-  {
-    "compatibility": 99,
-    "directory": "my-australian-farm",
-    "releases": [
-      {"id": "000480044B4C3445"}
-    ],
-    "title": "My Australian Farm"
-  },
-  {
-    "compatibility": 99,
     "directory": "my-baby-pet-hotel-3d",
     "releases": [
       {"id": "00040000000F6E00"}
@@ -8060,25 +5388,9 @@
     "compatibility": 99,
     "directory": "my-exotic-farm",
     "releases": [
-      {"id": "000480044B4D5645"}
-    ],
-    "title": "My Exotic Farm"
-  },
-  {
-    "compatibility": 99,
-    "directory": "my-exotic-farm",
-    "releases": [
       {"id": "00040000000E7000"}
     ],
     "title": "My Exotic Farm"
-  },
-  {
-    "compatibility": 99,
-    "directory": "my-farm",
-    "releases": [
-      {"id": "000480044B4D5245"}
-    ],
-    "title": "My Farm"
   },
   {
     "compatibility": 99,
@@ -8127,14 +5439,6 @@
       {"id": "00040000000FCF00"}
     ],
     "title": "My Little Baby 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "my-little-restaurant",
-    "releases": [
-      {"id": "000480044B4C5445"}
-    ],
-    "title": "My Little Restaurant"
   },
   {
     "compatibility": 99,
@@ -8193,78 +5497,6 @@
     "title": "My Zoo Vet Practice 3D"
   },
   {
-    "compatibility": 99,
-    "directory": "mydiary",
-    "releases": [
-      {"id": "000480044B594945"}
-    ],
-    "title": "myDiary"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mynotebook-blue",
-    "releases": [
-      {"id": "000480044B4E4245"}
-    ],
-    "title": "myNotebook: Blue"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mynotebook-carbon",
-    "releases": [
-      {"id": "000480044B4E3545"}
-    ],
-    "title": "myNotebook: Carbon"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mynotebook-green",
-    "releases": [
-      {"id": "000480044B4E4745"}
-    ],
-    "title": "myNotebook: Green"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mynotebook-pearl",
-    "releases": [
-      {"id": "000480044B4E3645"}
-    ],
-    "title": "myNotebook: Pearl"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mynotebook-red",
-    "releases": [
-      {"id": "000480044B4E4C45"}
-    ],
-    "title": "myNotebook: Red"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mynotebook-tan",
-    "releases": [
-      {"id": "000480044B4E3745"}
-    ],
-    "title": "myNotebook: Tan"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mypostcards",
-    "releases": [
-      {"id": "000480044B4D4845"}
-    ],
-    "title": "myPostcards"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mysims-camera",
-    "releases": [
-      {"id": "000480044B4D5945"}
-    ],
-    "title": "MySims Camera"
-  },
-  {
     "compatibility": 0,
     "directory": "myst",
     "releases": [
@@ -8287,30 +5519,6 @@
       {"id": "00040000001C0900"}
     ],
     "title": "Mysterious Stars 3D: Road To Idol"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mysterious-stars-a-fairy-tale",
-    "releases": [
-      {"id": "000480044B593645"}
-    ],
-    "title": "Mysterious Stars: A Fairy Tale"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mysterious-stars-the-samurai",
-    "releases": [
-      {"id": "000480044B593745"}
-    ],
-    "title": "Mysterious Stars: The Samurai"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mysterious-stars-the-singer",
-    "releases": [
-      {"id": "000480044B563945"}
-    ],
-    "title": "Mysterious Stars: The Singer"
   },
   {
     "compatibility": 99,
@@ -8375,14 +5583,6 @@
       {"id": "0004000000047D00"}
     ],
     "title": "NCIS 3D BASED ON THE TV SERIES"
-  },
-  {
-    "compatibility": 99,
-    "directory": "need-for-speed-nitro-x",
-    "releases": [
-      {"id": "000480044B4E5045"}
-    ],
-    "title": "Need for Speed Nitro-X"
   },
   {
     "compatibility": 0,
@@ -8513,38 +5713,6 @@
     "title": "Nintendo Badge Arcade"
   },
   {
-    "compatibility": 99,
-    "directory": "nintendo-countdown-calendar",
-    "releases": [
-      {"id": "000480044B415545"}
-    ],
-    "title": "Nintendo Countdown Calendar"
-  },
-  {
-    "compatibility": 99,
-    "directory": "nintendo-dsi-instrument-tuner",
-    "releases": [
-      {"id": "000480044B545545"}
-    ],
-    "title": "Nintendo DSi Instrument Tuner"
-  },
-  {
-    "compatibility": 99,
-    "directory": "nintendo-dsi-metronome",
-    "releases": [
-      {"id": "000480044B4D5445"}
-    ],
-    "title": "Nintendo DSi Metronome"
-  },
-  {
-    "compatibility": 99,
-    "directory": "nintendo-fan-network",
-    "releases": [
-      {"id": "000480044B385545"}
-    ],
-    "title": "Nintendo Fan Network"
-  },
-  {
     "compatibility": 1,
     "directory": "nintendo-video",
     "releases": [
@@ -8602,14 +5770,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "number-battle",
-    "releases": [
-      {"id": "000480044B535545"}
-    ],
-    "title": "NUMBER BATTLE"
-  },
-  {
-    "compatibility": 99,
     "directory": "nurikabe-by-nikoli",
     "releases": [
       {"id": "0004000000092A00"}
@@ -8663,14 +5823,6 @@
       {"id": "000400000009D200"}
     ],
     "title": "Order Up!!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "orions-odyssey",
-    "releases": [
-      {"id": "000480044B365445"}
-    ],
-    "title": "Orion's Odyssey"
   },
   {
     "compatibility": 99,
@@ -8745,22 +5897,6 @@
     "title": "Painting Workshop"
   },
   {
-    "compatibility": 99,
-    "directory": "panda-craze",
-    "releases": [
-      {"id": "000480044B433345"}
-    ],
-    "title": "Panda Craze"
-  },
-  {
-    "compatibility": 99,
-    "directory": "paper-airplane-chase",
-    "releases": [
-      {"id": "000480044B414D45"}
-    ],
-    "title": "Paper Airplane Chase"
-  },
-  {
     "compatibility": 1,
     "directory": "paper-mario-sticker-star",
     "releases": [
@@ -8818,27 +5954,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "peg-solitaire",
-    "releases": [
-      {"id": "000480044B503845"}
-    ],
-    "title": "Peg Solitaire"
-  },
-  {
-    "compatibility": 99,
     "directory": "penguin-hop",
     "releases": [
       {"id": "000400000F711900"}
     ],
     "title": "PENGUIN HOP"
-  },
-  {
-    "compatibility": 99,
-    "directory": "penguin-patrol",
-    "releases": [
-      {"id": "000480044B355045"}
-    ],
-    "title": "Penguin Patrol"
   },
   {
     "compatibility": 99,
@@ -8906,27 +6026,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "petz-catz-family",
-    "releases": [
-      {"id": "000480044B503545"}
-    ],
-    "title": "Petz Catz Family"
-  },
-  {
-    "compatibility": 99,
     "directory": "petz-countryside",
     "releases": [
       {"id": "0004000000077B00"}
     ],
     "title": "Petz Countryside"
-  },
-  {
-    "compatibility": 99,
-    "directory": "petz-dogz-family",
-    "releases": [
-      {"id": "000480044B503245"}
-    ],
-    "title": "Petz Dogz Family"
   },
   {
     "compatibility": 3,
@@ -8935,22 +6039,6 @@
       {"id": "0004000000044B00"}
     ],
     "title": "Petz Fantasy 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "petz-hamsterz-family",
-    "releases": [
-      {"id": "000480044B503345"}
-    ],
-    "title": "Petz Hamsterz Family"
-  },
-  {
-    "compatibility": 99,
-    "directory": "petz-kittens",
-    "releases": [
-      {"id": "000480044B504B45"}
-    ],
-    "title": "Petz Kittens"
   },
   {
     "compatibility": 3,
@@ -8991,22 +6079,6 @@
       {"id": "0004000000138F00"}
     ],
     "title": "Phoenix Wright: Ace Attorney Trilogy"
-  },
-  {
-    "compatibility": 99,
-    "directory": "photo-clock",
-    "releases": [
-      {"id": "000480044B574445"}
-    ],
-    "title": "Photo Clock"
-  },
-  {
-    "compatibility": 99,
-    "directory": "photo-dojo",
-    "releases": [
-      {"id": "000480044B504245"}
-    ],
-    "title": "Photo Dojo"
   },
   {
     "compatibility": 0,
@@ -9137,22 +6209,6 @@
     "title": "PICROSS e8"
   },
   {
-    "compatibility": 99,
-    "directory": "picture-perfect-pocket-stylist",
-    "releases": [
-      {"id": "000480044B485245"}
-    ],
-    "title": "Picture Perfect Pocket Stylist"
-  },
-  {
-    "compatibility": 99,
-    "directory": "picturebook-games-the-royal-bluff",
-    "releases": [
-      {"id": "000480044B453345"}
-    ],
-    "title": "PictureBook Games: The Royal Bluff"
-  },
-  {
     "compatibility": 1,
     "directory": "pikmin-short-movies-3d",
     "releases": [
@@ -9210,14 +6266,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "pinball-pulse-the-ancients-beckon",
-    "releases": [
-      {"id": "000480044B5A5045"}
-    ],
-    "title": "Pinball Pulse: The Ancients Beckon"
-  },
-  {
-    "compatibility": 99,
     "directory": "pinball-revenge-of-the-gator",
     "releases": [
       {"id": "00040000000B2700"}
@@ -9255,14 +6303,6 @@
       {"id": "000400000F708600"}
     ],
     "title": "Pirate Pop Plus"
-  },
-  {
-    "compatibility": 99,
-    "directory": "pirates-assault",
-    "releases": [
-      {"id": "000480044B584145"}
-    ],
-    "title": "Pirates Assault"
   },
   {
     "compatibility": 0,
@@ -9327,30 +6367,6 @@
       {"id": "00040000001A8F00"}
     ],
     "title": "Plantera"
-  },
-  {
-    "compatibility": 99,
-    "directory": "plants-vs-zombies",
-    "releases": [
-      {"id": "000480044B5A4C45"}
-    ],
-    "title": "Plants vs. Zombies"
-  },
-  {
-    "compatibility": 99,
-    "directory": "play-and-learn-chinese",
-    "releases": [
-      {"id": "000480044B465845"}
-    ],
-    "title": "Play & Learn Chinese"
-  },
-  {
-    "compatibility": 99,
-    "directory": "play-and-learn-spanish",
-    "releases": [
-      {"id": "000480044B465145"}
-    ],
-    "title": "Play & Learn Spanish"
   },
   {
     "compatibility": 1,
@@ -9706,27 +6722,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "pop-solo",
-    "releases": [
-      {"id": "000480044B504945"}
-    ],
-    "title": "Pop+ Solo"
-  },
-  {
-    "compatibility": 99,
     "directory": "power-disc-slam",
     "releases": [
       {"id": "0004000000158E00"}
     ],
     "title": "Power Disc Slam"
-  },
-  {
-    "compatibility": 99,
-    "directory": "prehistorik-man",
-    "releases": [
-      {"id": "000480044B504845"}
-    ],
-    "title": "Prehistorik Man"
   },
   {
     "compatibility": 99,
@@ -9743,14 +6743,6 @@
       {"id": "0004000000067500"}
     ],
     "title": "Pro Evolution Soccer 2012 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "pro-jumper-guilty-gear-tangent",
-    "releases": [
-      {"id": "000480044B465645"}
-    ],
-    "title": "Pro Jumper! Guilty Gear Tangent!?"
   },
   {
     "compatibility": 2,
@@ -9791,38 +6783,6 @@
       {"id": "0004000000191F00"}
     ],
     "title": "Psycho Pigs"
-  },
-  {
-    "compatibility": 99,
-    "directory": "publisher-dream",
-    "releases": [
-      {"id": "000480044B585545"}
-    ],
-    "title": "Publisher Dream"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puffins-lets-fish",
-    "releases": [
-      {"id": "000480044B4C4645"}
-    ],
-    "title": "Puffins: Let's Fish!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puffins-lets-race",
-    "releases": [
-      {"id": "000480044B4C5245"}
-    ],
-    "title": "Puffins: Let's Race!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puffins-lets-roll",
-    "releases": [
-      {"id": "000480044B4C3245"}
-    ],
-    "title": "Puffins: Let's Roll"
   },
   {
     "compatibility": 5,
@@ -9898,43 +6858,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "puzzle-fever",
-    "releases": [
-      {"id": "000480044B4B4545"}
-    ],
-    "title": "Puzzle Fever"
-  },
-  {
-    "compatibility": 99,
     "directory": "puzzle-labyrinth",
     "releases": [
       {"id": "0004000000190F00"}
     ],
     "title": "Puzzle Labyrinth"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puzzle-league-express",
-    "releases": [
-      {"id": "000480044B504E45"}
-    ],
-    "title": "Puzzle League Express"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puzzle-quest-challenge-of-the-warlords",
-    "releases": [
-      {"id": "000480044B505A45"}
-    ],
-    "title": "Puzzle Quest: Challenge of the Warlords"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puzzle-rocks",
-    "releases": [
-      {"id": "000480044B504C45"}
-    ],
-    "title": "Puzzle Rocks"
   },
   {
     "compatibility": 99,
@@ -9959,14 +6887,6 @@
       {"id": "000400000004EC00"}
     ],
     "title": "Puzzler Mind Gym 3"
-  },
-  {
-    "compatibility": 99,
-    "directory": "puzzler-world-xl",
-    "releases": [
-      {"id": "000480044B554F45"}
-    ],
-    "title": "Puzzler World XL"
   },
   {
     "compatibility": 0,
@@ -10113,14 +7033,6 @@
     "title": "Rayman"
   },
   {
-    "compatibility": 99,
-    "directory": "rayman",
-    "releases": [
-      {"id": "000480044B524D45"}
-    ],
-    "title": "Rayman"
-  },
-  {
     "compatibility": 2,
     "directory": "rayman-3d",
     "releases": [
@@ -10162,14 +7074,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "remote-racers",
-    "releases": [
-      {"id": "000480044B515245"}
-    ],
-    "title": "Remote Racers"
-  },
-  {
-    "compatibility": 99,
     "directory": "renegade",
     "releases": [
       {"id": "00040000000CA900"}
@@ -10201,36 +7105,12 @@
     "title": "Retro City Rampage: DX"
   },
   {
-    "compatibility": 99,
-    "directory": "retro-pocket",
-    "releases": [
-      {"id": "000480044B585245"}
-    ],
-    "title": "Retro Pocket"
-  },
-  {
     "compatibility": 1,
     "directory": "return-to-popolocrois-a-story-of-seasons-fairytale",
     "releases": [
       {"id": "000400000018CC00"}
     ],
     "title": "Return to PopoloCrois: A STORY OF SEASONS Fairytale"
-  },
-  {
-    "compatibility": 99,
-    "directory": "rhythm-core-alpha",
-    "releases": [
-      {"id": "000480044B354145"}
-    ],
-    "title": "Rhythm Core Alpha"
-  },
-  {
-    "compatibility": 99,
-    "directory": "rhythm-core-alpha-2",
-    "releases": [
-      {"id": "000480044B593445"}
-    ],
-    "title": "Rhythm Core Alpha 2"
   },
   {
     "compatibility": 1,
@@ -10314,35 +7194,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "robot-rescue",
-    "releases": [
-      {"id": "000480044B525445"}
-    ],
-    "title": "Robot Rescue"
-  },
-  {
-    "compatibility": 99,
-    "directory": "robot-rescue-2",
-    "releases": [
-      {"id": "000480044B525245"}
-    ],
-    "title": "Robot Rescue 2"
-  },
-  {
-    "compatibility": 99,
     "directory": "robot-rescue-3d",
     "releases": [
       {"id": "00040000000D0500"}
     ],
     "title": "Robot Rescue 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "rocks-n-rockets",
-    "releases": [
-      {"id": "000480044B524E45"}
-    ],
-    "title": "Rocks N' Rockets"
   },
   {
     "compatibility": 1,
@@ -10417,14 +7273,6 @@
     "title": "Rubik's Cube"
   },
   {
-    "compatibility": 99,
-    "directory": "rummikub",
-    "releases": [
-      {"id": "000480044B525545"}
-    ],
-    "title": "Rummikub"
-  },
-  {
     "compatibility": 1,
     "directory": "runbow-pocket",
     "releases": [
@@ -10465,44 +7313,12 @@
     "title": "RV-7 My Drone"
   },
   {
-    "compatibility": 99,
-    "directory": "rytmik",
-    "releases": [
-      {"id": "000480044B524B45"}
-    ],
-    "title": "Rytmik"
-  },
-  {
-    "compatibility": 99,
-    "directory": "rytmik-retrobits",
-    "releases": [
-      {"id": "000480044B595245"}
-    ],
-    "title": "Rytmik Retrobits"
-  },
-  {
-    "compatibility": 99,
-    "directory": "rytmik-rock-edition",
-    "releases": [
-      {"id": "000480044B525145"}
-    ],
-    "title": "Rytmik Rock Edition"
-  },
-  {
     "compatibility": 2,
     "directory": "rytmik-ultimate",
     "releases": [
       {"id": "000400000014DB00"}
     ],
     "title": "Rytmik Ultimate"
-  },
-  {
-    "compatibility": 99,
-    "directory": "rytmik-world-music",
-    "releases": [
-      {"id": "000480044B594845"}
-    ],
-    "title": "Rytmik World Music"
   },
   {
     "compatibility": 1,
@@ -10650,14 +7466,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "sea-battle",
-    "releases": [
-      {"id": "000480044B525745"}
-    ],
-    "title": "Sea Battle"
-  },
-  {
-    "compatibility": 99,
     "directory": "secret-agent-files-miami",
     "releases": [
       {"id": "00040000000C6E00"}
@@ -10751,30 +7559,6 @@
       {"id": "00040000000C2900"}
     ],
     "title": "Shantae and the Pirate's Curse"
-  },
-  {
-    "compatibility": 99,
-    "directory": "shantae-riskys-revenge",
-    "releases": [
-      {"id": "000480044B533345"}
-    ],
-    "title": "Shantae: Risky's Revenge"
-  },
-  {
-    "compatibility": 99,
-    "directory": "shapo",
-    "releases": [
-      {"id": "000480044B433445"}
-    ],
-    "title": "Shapo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "shawn-johnson-gymnastics",
-    "releases": [
-      {"id": "000480044B534A45"}
-    ],
-    "title": "Shawn Johnson Gymnastics"
   },
   {
     "compatibility": 0,
@@ -10898,30 +7682,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "simply-mahjong",
-    "releases": [
-      {"id": "000480044B344A45"}
-    ],
-    "title": "Simply Mahjong"
-  },
-  {
-    "compatibility": 99,
-    "directory": "simply-minesweeper",
-    "releases": [
-      {"id": "000480044B4D3345"}
-    ],
-    "title": "Simply Minesweeper"
-  },
-  {
-    "compatibility": 99,
-    "directory": "simply-solitaire",
-    "releases": [
-      {"id": "000480044B344C45"}
-    ],
-    "title": "Simply Solitaire"
-  },
-  {
-    "compatibility": 99,
     "directory": "skater-cat",
     "releases": [
       {"id": "00040000000E6700"}
@@ -10994,27 +7754,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "slingo-quest",
-    "releases": [
-      {"id": "000480044B514545"}
-    ],
-    "title": "Slingo Quest"
-  },
-  {
-    "compatibility": 99,
     "directory": "slitherlink-by-nikoli",
     "releases": [
       {"id": "000400000008D000"}
     ],
     "title": "Slitherlink by Nikoli"
-  },
-  {
-    "compatibility": 99,
-    "directory": "smart-girls-playhouse-mini",
-    "releases": [
-      {"id": "000480044B324645"}
-    ],
-    "title": "Smart Girl's Playhouse Mini"
   },
   {
     "compatibility": 99,
@@ -11050,35 +7794,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "snakenoid-deluxe",
-    "releases": [
-      {"id": "000480044B344E45"}
-    ],
-    "title": "Snakenoid Deluxe"
-  },
-  {
-    "compatibility": 99,
-    "directory": "snapdots",
-    "releases": [
-      {"id": "000480044B545954"}
-    ],
-    "title": "Snapdots"
-  },
-  {
-    "compatibility": 99,
     "directory": "snow-moto-racing-3d",
     "releases": [
       {"id": "0004000000097400"}
     ],
     "title": "Snow Moto Racing 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "snowboard-xtreme",
-    "releases": [
-      {"id": "000480044B583545"}
-    ],
-    "title": "Snowboard Xtreme"
   },
   {
     "compatibility": 99,
@@ -11095,22 +7815,6 @@
       {"id": "0004000000126F00"}
     ],
     "title": "Soccer Up Online"
-  },
-  {
-    "compatibility": 99,
-    "directory": "sokomania",
-    "releases": [
-      {"id": "000480044B534F45"}
-    ],
-    "title": "Sokomania"
-  },
-  {
-    "compatibility": 99,
-    "directory": "sokomania-2-cool-job",
-    "releases": [
-      {"id": "000480044B535645"}
-    ],
-    "title": "Sokomania 2: Cool Job"
   },
   {
     "compatibility": 99,
@@ -11210,22 +7914,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "soul-of-darkness",
-    "releases": [
-      {"id": "000480044B534B45"}
-    ],
-    "title": "Soul of Darkness"
-  },
-  {
-    "compatibility": 99,
-    "directory": "space-ace",
-    "releases": [
-      {"id": "000480044B413645"}
-    ],
-    "title": "Space Ace"
-  },
-  {
-    "compatibility": 99,
     "directory": "space-defender",
     "releases": [
       {"id": "00040000001D2700"}
@@ -11281,36 +7969,12 @@
     "title": "Spider-Man: Edge of Time"
   },
   {
-    "compatibility": 99,
-    "directory": "spin-six",
-    "releases": [
-      {"id": "000480044B513645"}
-    ],
-    "title": "Spin Six"
-  },
-  {
     "compatibility": 2,
     "directory": "spirit-camera-the-cursed-memoir",
     "releases": [
       {"id": "000400000007B000"}
     ],
     "title": "Spirit Camera: The Cursed Memoir"
-  },
-  {
-    "compatibility": 99,
-    "directory": "spirit-hunters-inc-light",
-    "releases": [
-      {"id": "000480044B475445"}
-    ],
-    "title": "Spirit Hunters Inc: Light"
-  },
-  {
-    "compatibility": 99,
-    "directory": "spirit-hunters-inc-shadow",
-    "releases": [
-      {"id": "000480044B473845"}
-    ],
-    "title": "Spirit Hunters Inc: Shadow"
   },
   {
     "compatibility": 99,
@@ -11330,43 +7994,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "spot-it-challenge",
-    "releases": [
-      {"id": "000480044B495445"}
-    ],
-    "title": "Spot It! Challenge"
-  },
-  {
-    "compatibility": 99,
-    "directory": "spot-it-mean-machines",
-    "releases": [
-      {"id": "000480044B325545"}
-    ],
-    "title": "Spot It! Mean Machines"
-  },
-  {
-    "compatibility": 99,
-    "directory": "spot-the-difference",
-    "releases": [
-      {"id": "000480044B595345"}
-    ],
-    "title": "Spot The Difference"
-  },
-  {
-    "compatibility": 99,
     "directory": "spot-the-differences",
     "releases": [
       {"id": "000400000010AB00"}
     ],
     "title": "Spot The Differences!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "spotto",
-    "releases": [
-      {"id": "000480044B535045"}
-    ],
-    "title": "Spotto!"
   },
   {
     "compatibility": 99,
@@ -11433,14 +8065,6 @@
     "title": "Star Wars Pinball"
   },
   {
-    "compatibility": 99,
-    "directory": "starship-defense",
-    "releases": [
-      {"id": "000480044B445945"}
-    ],
-    "title": "STARSHIP DEFENSE"
-  },
-  {
     "compatibility": 0,
     "directory": "steamworld-dig",
     "releases": [
@@ -11463,14 +8087,6 @@
       {"id": "000400000012D900"}
     ],
     "title": "SteamWorld Heist"
-  },
-  {
-    "compatibility": 99,
-    "directory": "steamworld-tower-defense",
-    "releases": [
-      {"id": "000480044B535745"}
-    ],
-    "title": "SteamWorld Tower Defense"
   },
   {
     "compatibility": 1,
@@ -11535,14 +8151,6 @@
       {"id": "000400000019F500"}
     ],
     "title": "STORY OF SEASONS: Trio of Towns"
-  },
-  {
-    "compatibility": 99,
-    "directory": "stratego-next-edition",
-    "releases": [
-      {"id": "000480044B544C45"}
-    ],
-    "title": "Stratego: Next Edition"
   },
   {
     "compatibility": 99,
@@ -11625,28 +8233,12 @@
     "title": "SubaraCity"
   },
   {
-    "compatibility": 99,
-    "directory": "sudoku",
-    "releases": [
-      {"id": "000480044B344445"}
-    ],
-    "title": "SUDOKU"
-  },
-  {
     "compatibility": 1,
     "directory": "sudoku-by-nikoli",
     "releases": [
       {"id": "000400000008E000"}
     ],
     "title": "Sudoku by Nikoli"
-  },
-  {
-    "compatibility": 99,
-    "directory": "sudoku-challenge",
-    "releases": [
-      {"id": "000480044B534345"}
-    ],
-    "title": "Sudoku Challenge!"
   },
   {
     "compatibility": 99,
@@ -11873,30 +8465,6 @@
     "title": "Super Strike Beach Volleyball"
   },
   {
-    "compatibility": 99,
-    "directory": "super-swap",
-    "releases": [
-      {"id": "000480044B345745"}
-    ],
-    "title": "Super Swap"
-  },
-  {
-    "compatibility": 99,
-    "directory": "supermarket-mania",
-    "releases": [
-      {"id": "000480044B525A45"}
-    ],
-    "title": "Supermarket Mania"
-  },
-  {
-    "compatibility": 99,
-    "directory": "surviving-high-school",
-    "releases": [
-      {"id": "000480044B335645"}
-    ],
-    "title": "SURVIVING HIGH SCHOOL"
-  },
-  {
     "compatibility": 1,
     "directory": "sushi-striker-the-way-of-sushido",
     "releases": [
@@ -11959,14 +8527,6 @@
       {"id": "00040000001B8900"}
     ],
     "title": "Symphony of Eternity"
-  },
-  {
-    "compatibility": 99,
-    "directory": "system-flaw-recruit",
-    "releases": [
-      {"id": "000480044B535945"}
-    ],
-    "title": "System Flaw Recruit"
   },
   {
     "compatibility": 99,
@@ -12063,22 +8623,6 @@
       {"id": "0004000000080300"}
     ],
     "title": "TEKKEN 3D Prime Edition"
-  },
-  {
-    "compatibility": 99,
-    "directory": "telegraph-crosswords",
-    "releases": [
-      {"id": "000480044B585145"}
-    ],
-    "title": "Telegraph Crosswords"
-  },
-  {
-    "compatibility": 99,
-    "directory": "telegraph-sudoku-and-kakuro",
-    "releases": [
-      {"id": "000480044B584C45"}
-    ],
-    "title": "Telegraph Sudoku & Kakuro"
   },
   {
     "compatibility": 99,
@@ -12346,22 +8890,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "the-lost-town-the-dust",
-    "releases": [
-      {"id": "000480044B4C4F45"}
-    ],
-    "title": "The Lost Town - The Dust"
-  },
-  {
-    "compatibility": 99,
-    "directory": "the-lost-town-the-jungle",
-    "releases": [
-      {"id": "000480044B554A45"}
-    ],
-    "title": "The Lost Town - The Jungle"
-  },
-  {
-    "compatibility": 99,
     "directory": "the-magic-hammer",
     "releases": [
       {"id": "000400000016F300"}
@@ -12370,27 +8898,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "the-mysterious-case-of-dr-jekyll-and-mr-hyde",
-    "releases": [
-      {"id": "000480044B374745"}
-    ],
-    "title": "The Mysterious Case of Dr. Jekyll & Mr. Hyde"
-  },
-  {
-    "compatibility": 99,
     "directory": "the-mysterious-murasame-castle",
     "releases": [
       {"id": "00040000000D3200"}
     ],
     "title": "The Mysterious Murasame Castle"
-  },
-  {
-    "compatibility": 99,
-    "directory": "the-seller",
-    "releases": [
-      {"id": "000480044B4C4C45"}
-    ],
-    "title": "The Seller"
   },
   {
     "compatibility": 2,
@@ -12449,14 +8961,6 @@
     "title": "Thor: God of Thunder"
   },
   {
-    "compatibility": 99,
-    "directory": "thorium-wars",
-    "releases": [
-      {"id": "000480044B545745"}
-    ],
-    "title": "Thorium Wars"
-  },
-  {
     "compatibility": 2,
     "directory": "thorium-wars-attack-of-the-skyfighter",
     "releases": [
@@ -12479,14 +8983,6 @@
       {"id": "0004000000158600"}
     ],
     "title": "Titan Attacks!"
-  },
-  {
-    "compatibility": 99,
-    "directory": "titanic-mystery",
-    "releases": [
-      {"id": "000480044B374845"}
-    ],
-    "title": "Titanic Mystery"
   },
   {
     "compatibility": 99,
@@ -12547,27 +9043,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "topoloco",
-    "releases": [
-      {"id": "000480044B543545"}
-    ],
-    "title": "Topoloco"
-  },
-  {
-    "compatibility": 99,
     "directory": "touch-battle-tank-tag-combat-",
     "releases": [
       {"id": "00040000001ADC00"}
     ],
     "title": "Touch Battle Tank - Tag Combat -"
-  },
-  {
-    "compatibility": 99,
-    "directory": "touch-solitaire",
-    "releases": [
-      {"id": "000480044B534C45"}
-    ],
-    "title": "Touch Solitaire"
   },
   {
     "compatibility": 99,
@@ -12595,14 +9075,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "trajectile",
-    "releases": [
-      {"id": "000480044B445A45"}
-    ],
-    "title": "Trajectile"
-  },
-  {
-    "compatibility": 99,
     "directory": "travel-adventures-with-hello-kitty",
     "releases": [
       {"id": "00040000000B0500"}
@@ -12624,22 +9096,6 @@
       {"id": "00040000001D7400"}
     ],
     "title": "Triple Breakout"
-  },
-  {
-    "compatibility": 99,
-    "directory": "trollboarder",
-    "releases": [
-      {"id": "000480044B423745"}
-    ],
-    "title": "Trollboarder"
-  },
-  {
-    "compatibility": 99,
-    "directory": "true-swing-golf-express",
-    "releases": [
-      {"id": "000480044B373245"}
-    ],
-    "title": "True Swing Golf Express"
   },
   {
     "compatibility": 99,
@@ -12715,14 +9171,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "valet-parking-1989",
-    "releases": [
-      {"id": "000480044B565045"}
-    ],
-    "title": "Valet Parking 1989"
-  },
-  {
-    "compatibility": 99,
     "directory": "vampire-master-of-darkness",
     "releases": [
       {"id": "000400000009C600"}
@@ -12744,14 +9192,6 @@
       {"id": "000400000008B800"}
     ],
     "title": "VectorRacing"
-  },
-  {
-    "compatibility": 99,
-    "directory": "viking-invasion",
-    "releases": [
-      {"id": "000480044B564B45"}
-    ],
-    "title": "Viking Invasion"
   },
   {
     "compatibility": 99,
@@ -12842,14 +9282,6 @@
     "title": "WarioWare Gold Special Demo"
   },
   {
-    "compatibility": 99,
-    "directory": "warioware-snapped",
-    "releases": [
-      {"id": "000480044B555745"}
-    ],
-    "title": "WarioWare: Snapped!"
-  },
-  {
     "compatibility": 1,
     "directory": "weapon-shop-de-omasse",
     "releases": [
@@ -12896,14 +9328,6 @@
       {"id": "00040000001D1100"}
     ],
     "title": "Witch & Hero 3"
-  },
-  {
-    "compatibility": 99,
-    "directory": "wizard-defenders",
-    "releases": [
-      {"id": "000480044B583645"}
-    ],
-    "title": "Wizard Defenders"
   },
   {
     "compatibility": 99,
@@ -12963,38 +9387,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "word-searcher",
-    "releases": [
-      {"id": "000480044B575345"}
-    ],
-    "title": "Word Searcher"
-  },
-  {
-    "compatibility": 99,
-    "directory": "word-searcher-2",
-    "releases": [
-      {"id": "000480044B575245"}
-    ],
-    "title": "Word Searcher 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "word-searcher-3",
-    "releases": [
-      {"id": "000480044B573645"}
-    ],
-    "title": "Word Searcher 3"
-  },
-  {
-    "compatibility": 99,
-    "directory": "word-searcher-4",
-    "releases": [
-      {"id": "000480044B573845"}
-    ],
-    "title": "Word Searcher 4"
-  },
-  {
-    "compatibility": 99,
     "directory": "word-wizard-3d",
     "releases": [
       {"id": "0004000000107900"}
@@ -13011,35 +9403,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "working-dawgs-a-mazing-pipes",
-    "releases": [
-      {"id": "000480044B595745"}
-    ],
-    "title": "Working Dawgs: A-Mazing Pipes"
-  },
-  {
-    "compatibility": 99,
-    "directory": "working-dawgs-rivet-retriever",
-    "releases": [
-      {"id": "000480044B553345"}
-    ],
-    "title": "Working Dawgs: Rivet Retriever"
-  },
-  {
-    "compatibility": 99,
     "directory": "world-conqueror-3d",
     "releases": [
       {"id": "00040000000FE700"}
     ],
     "title": "World Conqueror 3D"
-  },
-  {
-    "compatibility": 99,
-    "directory": "world-poker-tour-texas-hold-em",
-    "releases": [
-      {"id": "000480044B574F45"}
-    ],
-    "title": "World Poker Tour  Texas Hold 'Em"
   },
   {
     "compatibility": 99,
@@ -13064,14 +9432,6 @@
       {"id": "000400000006F700"}
     ],
     "title": "Wrecking Crew"
-  },
-  {
-    "compatibility": 99,
-    "directory": "x-scape",
-    "releases": [
-      {"id": "000480044B445845"}
-    ],
-    "title": "X-Scape"
   },
   {
     "compatibility": 1,
@@ -13210,14 +9570,6 @@
     "title": "Zen Pinball 3D"
   },
   {
-    "compatibility": 99,
-    "directory": "zenonia",
-    "releases": [
-      {"id": "000480044B5A4145"}
-    ],
-    "title": "ZENONIA"
-  },
-  {
     "compatibility": 2,
     "directory": "zero-escape-virtues-last-reward",
     "releases": [
@@ -13251,14 +9603,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "zombie-blaster",
-    "releases": [
-      {"id": "000480044B374B45"}
-    ],
-    "title": "Zombie Blaster"
-  },
-  {
-    "compatibility": 99,
     "directory": "zombie-incident",
     "releases": [
       {"id": "000400000012E900"}
@@ -13275,27 +9619,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "zombie-skape",
-    "releases": [
-      {"id": "000480044B5A5945"}
-    ],
-    "title": "Zombie Skape"
-  },
-  {
-    "compatibility": 99,
     "directory": "zombie-slayer-diox",
     "releases": [
       {"id": "000400000007FF00"}
     ],
     "title": "Zombie Slayer Diox"
-  },
-  {
-    "compatibility": 99,
-    "directory": "zoo-frenzy",
-    "releases": [
-      {"id": "000480044B5A4645"}
-    ],
-    "title": "Zoo Frenzy"
   },
   {
     "compatibility": 99,
