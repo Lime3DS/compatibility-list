@@ -641,14 +641,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "ace-combat-assault-horizon-legacy-update",
-    "releases": [
-      {"id": "0004000E0015C000"}
-    ],
-    "title": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update"
-  },
-  {
-    "compatibility": 99,
     "directory": "ace-mathician",
     "releases": [
       {"id": "000480044B514B45"}
@@ -705,14 +697,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "adventure-time-etdbidk-update-1",
-    "releases": [
-      {"id": "0004000E000ECD00"}
-    ],
-    "title": "Adventure Time: ETDBIDK Update 1"
-  },
-  {
-    "compatibility": 99,
     "directory": "adventures-of-lolo",
     "releases": [
       {"id": "000400000010FA00"}
@@ -734,14 +718,6 @@
       {"id": "00040000000CD300"}
     ],
     "title": "AeternoBlade"
-  },
-  {
-    "compatibility": 99,
-    "directory": "aeternoblade-update-ver-10",
-    "releases": [
-      {"id": "0004000E000CD300"}
-    ],
-    "title": "AeternoBlade Update Ver. 1.0"
   },
   {
     "compatibility": 99,
@@ -952,14 +928,6 @@
     "title": "Animal Crossing: Happy Home Designer"
   },
   {
-    "compatibility": 99,
-    "directory": "animal-crossing-happy-home-designer-update-ver-20",
-    "releases": [
-      {"id": "0004000E0014F100"}
-    ],
-    "title": "Animal Crossing: Happy Home Designer Update Ver. 2.0"
-  },
-  {
     "compatibility": 0,
     "directory": "animal-crossing-new-leaf",
     "releases": [
@@ -967,14 +935,6 @@
       {"id": "0004000000086400"}
     ],
     "title": "Animal Crossing: New Leaf"
-  },
-  {
-    "compatibility": 0,
-    "directory": "animal-crossing-new-leaf-update-ver-15",
-    "releases": [
-      {"id": "0004000E00086300"}
-    ],
-    "title": "Animal Crossing: New Leaf Update Ver. 1.5"
   },
   {
     "compatibility": 0,
@@ -1241,14 +1201,6 @@
     "title": "ASH"
   },
   {
-    "compatibility": 99,
-    "directory": "ash-update-ver-11",
-    "releases": [
-      {"id": "0004000E0016EE00"}
-    ],
-    "title": "ASH Update Ver. 1.1"
-  },
-  {
     "compatibility": 0,
     "directory": "asphalt-3d",
     "releases": [
@@ -1370,35 +1322,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "azure-striker-gunvolt-2-update-ver-12",
-    "releases": [
-      {"id": "0004000E00196A00"}
-    ],
-    "title": "Azure Striker GUNVOLT 2 Update Ver. 1.2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "azure-striker-gunvolt-striker-pack-update-ver-12",
-    "releases": [
-      {"id": "0004000E001A5600"}
-    ],
-    "title": "Azure Striker Gunvolt: Striker Pack Update Ver. 1.2"
-  },
-  {
-    "compatibility": 99,
     "directory": "azure-striker-gunvolt-the-anime",
     "releases": [
       {"id": "00040000001B7600"}
     ],
     "title": "Azure Striker Gunvolt: The Anime"
-  },
-  {
-    "compatibility": 99,
-    "directory": "azure-striker-gunvolt-update-ver-14",
-    "releases": [
-      {"id": "0004000E0014C800"}
-    ],
-    "title": "Azure Striker GUNVOLT Update Ver. 1.4"
   },
   {
     "compatibility": 99,
@@ -1791,14 +1719,6 @@
       {"id": "00040000001BD000"}
     ],
     "title": "Blaster Master Zero"
-  },
-  {
-    "compatibility": 99,
-    "directory": "blaster-master-zero-update-ver-141",
-    "releases": [
-      {"id": "0004000E001BD000"}
-    ],
-    "title": "Blaster Master Zero Update Ver. 1.4.1"
   },
   {
     "compatibility": 99,
@@ -2737,14 +2657,6 @@
     "title": "Code Name: S.T.E.A.M."
   },
   {
-    "compatibility": 99,
-    "directory": "code-name-steam-update-ver-120",
-    "releases": [
-      {"id": "0004000E00132500"}
-    ],
-    "title": "Code Name: S.T.E.A.M. Update Ver. 1.2.0"
-  },
-  {
     "compatibility": 1,
     "directory": "code-of-princess",
     "releases": [
@@ -2847,14 +2759,6 @@
       {"id": "0004000000167F00"}
     ],
     "title": "Comic Workshop 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "comic-workshop-2-update-ver-12",
-    "releases": [
-      {"id": "0004000E00167F00"}
-    ],
-    "title": "Comic Workshop 2 Update Ver. 1.2"
   },
   {
     "compatibility": 99,
@@ -3522,14 +3426,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "disney-magical-world-update-ver-11",
-    "releases": [
-      {"id": "0004000E000EA900"}
-    ],
-    "title": "Disney Magical World Update Ver. 1.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "disney-planes",
     "releases": [
       {"id": "00040000000B0800"}
@@ -3850,22 +3746,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "dragon-ball-fusions-online-multiplayer-update-ver-220",
-    "releases": [
-      {"id": "0004000E001AA900"}
-    ],
-    "title": "DRAGON BALL FUSIONS + Online Multiplayer Update Ver. 2.2.0"
-  },
-  {
-    "compatibility": 99,
-    "directory": "dragon-ball-z-extreme-butoden-update",
-    "releases": [
-      {"id": "0004000E0016CD00"}
-    ],
-    "title": "DRAGON BALL Z: Extreme Butoden Update"
-  },
-  {
-    "compatibility": 99,
     "directory": "dragon-crystal",
     "releases": [
       {"id": "000400000008BB00"}
@@ -4161,14 +4041,6 @@
     "title": "Elliot Quest"
   },
   {
-    "compatibility": 99,
-    "directory": "elliot-quest-update-ver-14",
-    "releases": [
-      {"id": "0004000E001AD800"}
-    ],
-    "title": "Elliot Quest Update Ver. 1.4"
-  },
-  {
     "compatibility": 1,
     "directory": "elminage-original",
     "releases": [
@@ -4281,14 +4153,6 @@
     "title": "Etrian Odyssey 2 Untold: The Fafnir Knight"
   },
   {
-    "compatibility": 99,
-    "directory": "etrian-odyssey-2-untold-the-fafnir-knight-update",
-    "releases": [
-      {"id": "0004000E0015F200"}
-    ],
-    "title": "Etrian Odyssey 2 Untold: The Fafnir Knight Update"
-  },
-  {
     "compatibility": 0,
     "directory": "etrian-odyssey-iv-legends-of-the-titan",
     "releases": [
@@ -4335,14 +4199,6 @@
       {"id": "00040000001A4800"}
     ],
     "title": "Ever Oasis"
-  },
-  {
-    "compatibility": 99,
-    "directory": "ever-oasis-update-ver-11",
-    "releases": [
-      {"id": "0004000E001A4800"}
-    ],
-    "title": "Ever Oasis Update Ver. 1.1"
   },
   {
     "compatibility": 99,
@@ -4625,14 +4481,6 @@
     "title": "Fire Emblem Echoes: Shadows of Valentia"
   },
   {
-    "compatibility": 99,
-    "directory": "fire-emblem-echoes-shadows-of-valentia-update-ver-11",
-    "releases": [
-      {"id": "0004000E001B4000"}
-    ],
-    "title": "Fire Emblem Echoes: Shadows of Valentia Update Ver. 1.1"
-  },
-  {
     "compatibility": 3,
     "directory": "fire-emblem-fates-birthright",
     "releases": [
@@ -4655,14 +4503,6 @@
       {"id": "000400000F70CC00"}
     ],
     "title": "Fire Emblem Warriors"
-  },
-  {
-    "compatibility": 99,
-    "directory": "fire-emblem-warriors-update-ver-150",
-    "releases": [
-      {"id": "0004000E0F70CC00"}
-    ],
-    "title": "Fire Emblem Warriors Update Ver. 1.5.0"
   },
   {
     "compatibility": 99,
@@ -5402,14 +5242,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "go-go-kokopolo-3d-update-ver-11",
-    "releases": [
-      {"id": "0004000E000B7800"}
-    ],
-    "title": "Go! Go! Kokopolo 3D Update Ver. 1.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "gold-fever",
     "releases": [
       {"id": "000480044B473745"}
@@ -5447,14 +5279,6 @@
       {"id": "0004000000160200"}
     ],
     "title": "Goosebumps: The Game"
-  },
-  {
-    "compatibility": 99,
-    "directory": "goosebumps-the-game-update-ver-101",
-    "releases": [
-      {"id": "0004000E00160200"}
-    ],
-    "title": "Goosebumps: The Game Update Ver. 1.01"
   },
   {
     "compatibility": 99,
@@ -5610,14 +5434,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "hakuoki-memories-of-the-shinsengumi-update",
-    "releases": [
-      {"id": "0004000E000DD900"}
-    ],
-    "title": "Hakuoki: Memories of the Shinsengumi Update"
-  },
-  {
-    "compatibility": 99,
     "directory": "halloween-night-archery",
     "releases": [
       {"id": "000400000F70F400"}
@@ -5697,28 +5513,12 @@
     "title": "Harvest Moon: Skytree Village"
   },
   {
-    "compatibility": 99,
-    "directory": "harvest-moon-skytree-village-update-ver-200",
-    "releases": [
-      {"id": "0004000E001A3500"}
-    ],
-    "title": "Harvest Moon: Skytree Village Update Ver. 2.00"
-  },
-  {
     "compatibility": 1,
     "directory": "harvest-moon-the-lost-valley",
     "releases": [
       {"id": "000400000010F600"}
     ],
     "title": "Harvest Moon: The Lost Valley"
-  },
-  {
-    "compatibility": 99,
-    "directory": "harvest-moon-the-lost-valley-update-ver-101",
-    "releases": [
-      {"id": "0004000E0010F600"}
-    ],
-    "title": "Harvest Moon: The Lost Valley Update Ver. 1.01"
   },
   {
     "compatibility": 1,
@@ -6009,28 +5809,12 @@
     "title": "Hyrule Warriors Legends"
   },
   {
-    "compatibility": 99,
-    "directory": "hyrule-warriors-legends-update-ver-160",
-    "releases": [
-      {"id": "0004000E0017EA00"}
-    ],
-    "title": "Hyrule Warriors Legends Update Ver. 1.6.0"
-  },
-  {
     "compatibility": 1,
     "directory": "i-am-an-air-traffic-controller-airport-hero-hawaii",
     "releases": [
       {"id": "00040000000FC100"}
     ],
     "title": "I am an Air Traffic Controller Airport Hero Hawaii"
-  },
-  {
-    "compatibility": 99,
-    "directory": "i-am-an-air-traffic-controller-airport-hero-hawaii-update",
-    "releases": [
-      {"id": "0004000E000FC100"}
-    ],
-    "title": "I am an Air Traffic Controller Airport Hero Hawaii Update"
   },
   {
     "compatibility": 99,
@@ -6657,14 +6441,6 @@
     "title": "Kirby Battle Royale Demo"
   },
   {
-    "compatibility": 99,
-    "directory": "kirby-battle-royale-update-ver-30",
-    "releases": [
-      {"id": "0004000E001C2000"}
-    ],
-    "title": "Kirby Battle Royale Update Ver. 3.0"
-  },
-  {
     "compatibility": 1,
     "directory": "kirby-fighters-deluxe",
     "releases": [
@@ -6890,14 +6666,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "laytons-mystery-journey-update-ver-12",
-    "releases": [
-      {"id": "0004000E001CB400"}
-    ],
-    "title": "LAYTON'S MYSTERY JOURNEY Update Ver. 1.2"
-  },
-  {
-    "compatibility": 99,
     "directory": "league-of-heroes",
     "releases": [
       {"id": "00040000000D6800"}
@@ -6953,14 +6721,6 @@
     "title": "LEGO Batman 3: Beyond Gotham"
   },
   {
-    "compatibility": 99,
-    "directory": "lego-batman-3-beyond-gotham-update",
-    "releases": [
-      {"id": "0004000E0011DD00"}
-    ],
-    "title": "LEGO Batman 3: Beyond Gotham Update"
-  },
-  {
     "compatibility": 3,
     "directory": "lego-city-undercover-the-chase-begins",
     "releases": [
@@ -7009,14 +6769,6 @@
     "title": "LEGO Marvel's Avengers"
   },
   {
-    "compatibility": 99,
-    "directory": "lego-marvels-avengers-update-ver-120",
-    "releases": [
-      {"id": "0004000E00168500"}
-    ],
-    "title": "LEGO Marvel's Avengers Update Ver. 1.2.0"
-  },
-  {
     "compatibility": 2,
     "directory": "lego-ninjago-nindroids",
     "releases": [
@@ -7031,14 +6783,6 @@
       {"id": "000400000014EB00"}
     ],
     "title": "LEGO Ninjago: Shadow of Ronin"
-  },
-  {
-    "compatibility": 99,
-    "directory": "lego-ninjago-shadow-of-ronin-update-ver-20",
-    "releases": [
-      {"id": "0004000E0014EB00"}
-    ],
-    "title": "LEGO Ninjago: Shadow of Ronin Update Ver. 2.0"
   },
   {
     "compatibility": 2,
@@ -7119,14 +6863,6 @@
       {"id": "00040000001D1300"}
     ],
     "title": "Link-a-Pix Color"
-  },
-  {
-    "compatibility": 99,
-    "directory": "link-a-pix-color-update-ver-101",
-    "releases": [
-      {"id": "0004000E001D1300"}
-    ],
-    "title": "Link-a-Pix Color Update Ver. 1.01"
   },
   {
     "compatibility": 99,
@@ -7369,14 +7105,6 @@
     "title": "Mario & Luigi: Dream Team"
   },
   {
-    "compatibility": 99,
-    "directory": "mario-and-luigi-dream-team-update",
-    "releases": [
-      {"id": "0004000E000D5A00"}
-    ],
-    "title": "Mario & Luigi: Dream Team Update"
-  },
-  {
     "compatibility": 2,
     "directory": "mario-and-luigi-paper-jam",
     "releases": [
@@ -7447,14 +7175,6 @@
       {"id": "0004000000030800"}
     ],
     "title": "Mario Kart 7"
-  },
-  {
-    "compatibility": 99,
-    "directory": "mario-kart-7-update-ver-11",
-    "releases": [
-      {"id": "0004000E00030800"}
-    ],
-    "title": "Mario Kart 7 Update Ver. 1.1"
   },
   {
     "compatibility": 1,
@@ -7834,14 +7554,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "metal-gear-solid-snake-eater-3d-update-ver-11",
-    "releases": [
-      {"id": "0004000E00081E00"}
-    ],
-    "title": "METAL GEAR SOLID SNAKE EATER 3D Update Ver. 1.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "metal-torrent",
     "releases": [
       {"id": "000480044B353945"}
@@ -7879,22 +7591,6 @@
       {"id": "000400000016F600"}
     ],
     "title": "Metroid Prime: Federation  Force Blast Ball Demo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "metroid-prime-federation-force-blast-ball-update",
-    "releases": [
-      {"id": "0004000E0016F600"}
-    ],
-    "title": "Metroid Prime: Federation Force Blast Ball Update"
-  },
-  {
-    "compatibility": 99,
-    "directory": "metroid-prime-federation-force-update-ver-110",
-    "releases": [
-      {"id": "0004000E0016E300"}
-    ],
-    "title": "Metroid Prime: Federation Force Update Ver. 1.1.0"
   },
   {
     "compatibility": 1,
@@ -7978,14 +7674,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "mighty-gunvolt-burst-update-ver-131",
-    "releases": [
-      {"id": "0004000E001C7700"}
-    ],
-    "title": "MIGHTY GUNVOLT BURST Update Ver. 1.3.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "mighty-milky-way",
     "releases": [
       {"id": "000480044B575945"}
@@ -8039,14 +7727,6 @@
       {"id": "00040000001B8700"}
     ],
     "title": "Minecraft: New Nintendo 3DS Edition"
-  },
-  {
-    "compatibility": 99,
-    "directory": "minecraft-new-nintendo-3ds-edition-update-ver-19",
-    "releases": [
-      {"id": "0004000E001B8700"}
-    ],
-    "title": "Minecraft: New Nintendo 3DS  Edition Update Ver. 1.9"
   },
   {
     "compatibility": 99,
@@ -8159,14 +7839,6 @@
       {"id": "000400000015FA00"}
     ],
     "title": "Monster Hunter 4 Ultimate Special Demo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "monster-hunter-4-ultimate-update-ver-11",
-    "releases": [
-      {"id": "0004000E00126300"}
-    ],
-    "title": "Monster Hunter 4 Ultimate Update Ver. 1.1"
   },
   {
     "compatibility": 1,
@@ -8610,14 +8282,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "mysterious-stars-3d-a-fairy-tale-update-version-110",
-    "releases": [
-      {"id": "0004000E001C0800"}
-    ],
-    "title": "Mysterious Stars 3D: A Fairy Tale\nUpdate Version 1.1.0"
-  },
-  {
-    "compatibility": 99,
     "directory": "mysterious-stars-3d-road-to-idol",
     "releases": [
       {"id": "00040000001C0900"}
@@ -8826,27 +8490,11 @@
   },
   {
     "compatibility": 99,
-    "directory": "nintendo-3ds-guide-louvre-english-version-update",
-    "releases": [
-      {"id": "0004000E000CB900"}
-    ],
-    "title": "Nintendo 3DS Guide: Louvre (English Version) Update"
-  },
-  {
-    "compatibility": 99,
     "directory": "nintendo-3ds-guide-louvre-french-version",
     "releases": [
       {"id": "00040000000D5600"}
     ],
     "title": "Nintendo 3DS Guide: Louvre (French Version)"
-  },
-  {
-    "compatibility": 99,
-    "directory": "nintendo-3ds-guide-louvre-french-version-update",
-    "releases": [
-      {"id": "0004000E000D5600"}
-    ],
-    "title": "Nintendo 3DS Guide: Louvre (French Version) Update"
   },
   {
     "compatibility": 99,
@@ -8857,28 +8505,12 @@
     "title": "Nintendo 3DS Guide: Louvre (Spanish Version)"
   },
   {
-    "compatibility": 99,
-    "directory": "nintendo-3ds-guide-louvre-spanish-version-update",
-    "releases": [
-      {"id": "0004000E000D5900"}
-    ],
-    "title": "Nintendo 3DS Guide: Louvre (Spanish Version) Update"
-  },
-  {
     "compatibility": 4,
     "directory": "nintendo-badge-arcade",
     "releases": [
       {"id": "0004000000153500"}
     ],
     "title": "Nintendo Badge Arcade"
-  },
-  {
-    "compatibility": 99,
-    "directory": "nintendo-badge-arcade-update-ver-131",
-    "releases": [
-      {"id": "0004000E00153500"}
-    ],
-    "title": "Nintendo Badge Arcade Update Ver. 1.3.1"
   },
   {
     "compatibility": 99,
@@ -9015,14 +8647,6 @@
       {"id": "000400000015A400"}
     ],
     "title": "OlliOlli"
-  },
-  {
-    "compatibility": 99,
-    "directory": "olliolli-update-ver-110",
-    "releases": [
-      {"id": "0004000E0015A400"}
-    ],
-    "title": "OlliOlli Update Ver. 1.1.0"
   },
   {
     "compatibility": 0,
@@ -9753,14 +9377,6 @@
     "title": "Pokémon Alpha Sapphire"
   },
   {
-    "compatibility": 99,
-    "directory": "pokemon-alpha-sapphire-update-ver-14",
-    "releases": [
-      {"id": "0004000E0011C500"}
-    ],
-    "title": "Pokémon Alpha Sapphire Update Ver. 1.4"
-  },
-  {
     "compatibility": 2,
     "directory": "pokemon-art-academy",
     "releases": [
@@ -9873,14 +9489,6 @@
     "title": "Pokémon Moon"
   },
   {
-    "compatibility": 99,
-    "directory": "pokemon-moon-update-ver-12",
-    "releases": [
-      {"id": "0004000E00175E00"}
-    ],
-    "title": "Pokémon Moon Update Ver. 1.2"
-  },
-  {
     "compatibility": 1,
     "directory": "pokemon-mystery-dungeon-gates-to-infinity",
     "releases": [
@@ -9903,14 +9511,6 @@
       {"id": "000400000014A300"}
     ],
     "title": "Pokémon Omega Ruby and Alpha Sapphire Special Demo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "pokemon-omega-ruby-update-ver-14",
-    "releases": [
-      {"id": "0004000E0011C400"}
-    ],
-    "title": "Pokémon Omega Ruby Update Ver. 1.4"
   },
   {
     "compatibility": 0,
@@ -10017,28 +9617,12 @@
     "title": "Pokémon Sun and Pokémon Moon Special Demo"
   },
   {
-    "compatibility": 99,
-    "directory": "pokemon-sun-update-ver-12",
-    "releases": [
-      {"id": "0004000E00164800"}
-    ],
-    "title": "Pokémon Sun Update Ver. 1.2"
-  },
-  {
     "compatibility": 2,
     "directory": "pokemon-super-mystery-dungeon",
     "releases": [
       {"id": "0004000000174600"}
     ],
     "title": "Pokémon Super Mystery Dungeon"
-  },
-  {
-    "compatibility": 99,
-    "directory": "pokemon-super-mystery-dungeon-update-ver",
-    "releases": [
-      {"id": "0004000E00174600"}
-    ],
-    "title": "Pokémon Super Mystery Dungeon Update Ver."
   },
   {
     "compatibility": 2,
@@ -10057,28 +9641,12 @@
     "title": "Pokémon Ultra Moon"
   },
   {
-    "compatibility": 99,
-    "directory": "pokemon-ultra-moon-update-ver-12",
-    "releases": [
-      {"id": "0004000E001B5100"}
-    ],
-    "title": "Pokémon Ultra Moon Update Ver. 1.2"
-  },
-  {
     "compatibility": 2,
     "directory": "pokemon-ultra-sun",
     "releases": [
       {"id": "00040000001B5000"}
     ],
     "title": "Pokémon Ultra Sun"
-  },
-  {
-    "compatibility": 99,
-    "directory": "pokemon-ultra-sun-update-ver-12",
-    "releases": [
-      {"id": "0004000E001B5000"}
-    ],
-    "title": "Pokémon Ultra Sun Update Ver. 1.2"
   },
   {
     "compatibility": 2,
@@ -10089,28 +9657,12 @@
     "title": "Pokémon X"
   },
   {
-    "compatibility": 99,
-    "directory": "pokemon-x-update-ver-15",
-    "releases": [
-      {"id": "0004000E00055D00"}
-    ],
-    "title": "Pokémon X Update Ver. 1.5"
-  },
-  {
     "compatibility": 2,
     "directory": "pokemon-y",
     "releases": [
       {"id": "0004000000055E00"}
     ],
     "title": "Pokémon Y"
-  },
-  {
-    "compatibility": 99,
-    "directory": "pokemon-y-update-ver-15",
-    "releases": [
-      {"id": "0004000E00055E00"}
-    ],
-    "title": "Pokémon Y Update Ver. 1.5"
   },
   {
     "compatibility": 2,
@@ -10170,14 +9722,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "power-disc-slam-update-ver-110",
-    "releases": [
-      {"id": "0004000E00158E00"}
-    ],
-    "title": "Power Disc Slam Update Ver. 1.10"
-  },
-  {
-    "compatibility": 99,
     "directory": "prehistorik-man",
     "releases": [
       {"id": "000480044B504845"}
@@ -10231,14 +9775,6 @@
       {"id": "0004000000100700"}
     ],
     "title": "Professor Layton vs. Phoenix Wright: Ace Attorney"
-  },
-  {
-    "compatibility": 99,
-    "directory": "project-x-zone-2-update-ver-12",
-    "releases": [
-      {"id": "0004000E00160C00"}
-    ],
-    "title": "Project X Zone 2 Update Ver. 1.2"
   },
   {
     "compatibility": 99,
@@ -10825,14 +10361,6 @@
     "title": "RPG Maker Fes"
   },
   {
-    "compatibility": 99,
-    "directory": "rpg-maker-fes-update-ver-115",
-    "releases": [
-      {"id": "0004000E001BD500"}
-    ],
-    "title": "RPG Maker Fes Update Ver. 1.1.5"
-  },
-  {
     "compatibility": 0,
     "directory": "rpg-maker-player",
     "releases": [
@@ -11058,14 +10586,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "samurai-warriors-chronicles-3-update-ver-102",
-    "releases": [
-      {"id": "0004000E0016F200"}
-    ],
-    "title": "SAMURAI WARRIORS: Chronicles 3 Update Ver. 1.0.2"
-  },
-  {
-    "compatibility": 99,
     "directory": "sanrio-characters-picross",
     "releases": [
       {"id": "00040000001D3400"}
@@ -11234,14 +10754,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "shantae-and-the-pirates-curse-update-ver-0202",
-    "releases": [
-      {"id": "0004000E000C2900"}
-    ],
-    "title": "Shantae and the Pirate's Curse Update Ver. 02.02"
-  },
-  {
-    "compatibility": 99,
     "directory": "shantae-riskys-revenge",
     "releases": [
       {"id": "000480044B533345"}
@@ -11321,14 +10833,6 @@
     "title": "Shin Megami Tensei IV:  Apocalypse"
   },
   {
-    "compatibility": 99,
-    "directory": "shin-megami-tensei-iv-update",
-    "releases": [
-      {"id": "0004000E000E5C00"}
-    ],
-    "title": "Shin Megami Tensei IV Update"
-  },
-  {
     "compatibility": 0,
     "directory": "shin-megami-tensei-strange-journey-redux",
     "releases": [
@@ -11377,14 +10881,6 @@
     "title": "Shovel Knight: Treasure Trove"
   },
   {
-    "compatibility": 3,
-    "directory": "shovel-knight-treasure-trove-update-ver-32",
-    "releases": [
-      {"id": "0004000E0017E100"}
-    ],
-    "title": "Shovel Knight: Treasure Trove Update Ver. 3.2"
-  },
-  {
     "compatibility": 99,
     "directory": "side-pocket",
     "releases": [
@@ -11399,14 +10895,6 @@
       {"id": "0004000000139300"}
     ],
     "title": "Siesta Fiesta"
-  },
-  {
-    "compatibility": 99,
-    "directory": "siesta-fiesta-update-ver-10",
-    "releases": [
-      {"id": "0004000E00139300"}
-    ],
-    "title": "Siesta Fiesta Update Ver. 1.0"
   },
   {
     "compatibility": 99,
@@ -11559,14 +11047,6 @@
       {"id": "000400000016DE00"}
     ],
     "title": "SmileBASIC"
-  },
-  {
-    "compatibility": 99,
-    "directory": "smilebasic-update-ver-360",
-    "releases": [
-      {"id": "0004000E0016DE00"}
-    ],
-    "title": "SmileBASIC Update Ver. 3.6.0"
   },
   {
     "compatibility": 99,
@@ -12010,14 +11490,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "steel-diver-sub-wars-update-ver-41",
-    "releases": [
-      {"id": "0004000E000D7D00"}
-    ],
-    "title": "Steel Diver: Sub Wars Update Ver. 4.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "steel-empire",
     "releases": [
       {"id": "000400000013CD00"}
@@ -12042,14 +11514,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "stickman-super-athletics-update-ver-11",
-    "releases": [
-      {"id": "0004000E0019A400"}
-    ],
-    "title": "Stickman Super Athletics Update Ver. 1.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "storm-chaser-tornado-alley",
     "releases": [
       {"id": "000400000F711400"}
@@ -12071,14 +11535,6 @@
       {"id": "000400000019F500"}
     ],
     "title": "STORY OF SEASONS: Trio of Towns"
-  },
-  {
-    "compatibility": 99,
-    "directory": "story-of-seasons-trio-of-towns-update-ver-11",
-    "releases": [
-      {"id": "0004000E0019F500"}
-    ],
-    "title": "STORY OF SEASONS: Trio of Towns\nUpdate Ver. 1.1"
   },
   {
     "compatibility": 99,
@@ -12159,14 +11615,6 @@
       {"id": "00040000000A9100"}
     ],
     "title": "Style Savvy: Trendsetters"
-  },
-  {
-    "compatibility": 99,
-    "directory": "style-savvy-trendsetters-update-ver-11",
-    "releases": [
-      {"id": "0004000E000A9100"}
-    ],
-    "title": "Style Savvy: Trendsetters Update Ver. 1.1"
   },
   {
     "compatibility": 0,
@@ -12361,14 +11809,6 @@
     "title": "Super Mario Maker for Nintendo 3DS"
   },
   {
-    "compatibility": 99,
-    "directory": "super-mario-maker-for-nintendo-3ds-update",
-    "releases": [
-      {"id": "0004000E001A0400"}
-    ],
-    "title": "Super Mario Maker for Nintendo 3DS Update"
-  },
-  {
     "compatibility": 2,
     "directory": "super-mario-world",
     "releases": [
@@ -12407,14 +11847,6 @@
       {"id": "00040000000EDF00"}
     ],
     "title": "Super Smash Bros. for Nintendo 3DS"
-  },
-  {
-    "compatibility": 5,
-    "directory": "super-smash-bros-update-ver-117",
-    "releases": [
-      {"id": "0004000E000EDF00"}
-    ],
-    "title": "Super Smash Bros.  Update Ver. 1.1.7"
   },
   {
     "compatibility": 99,
@@ -12665,14 +12097,6 @@
     "title": "Terraria"
   },
   {
-    "compatibility": 99,
-    "directory": "terraria-update-ver-105",
-    "releases": [
-      {"id": "0004000E0016A900"}
-    ],
-    "title": "Terraria Update Ver. 1.0.5"
-  },
-  {
     "compatibility": 2,
     "directory": "the-alliance-alive",
     "releases": [
@@ -12767,14 +12191,6 @@
       {"id": "0004000000186600"}
     ],
     "title": "The Legend of Dark Witch 2"
-  },
-  {
-    "compatibility": 99,
-    "directory": "the-legend-of-dark-witch-2-update-ver-12",
-    "releases": [
-      {"id": "0004000E00186600"}
-    ],
-    "title": "The Legend of Dark Witch 2 Update Ver. 1.2"
   },
   {
     "compatibility": 1,
@@ -12881,14 +12297,6 @@
     "title": "The Legend of Zelda: Majora’s Mask 3D"
   },
   {
-    "compatibility": 99,
-    "directory": "the-legend-of-zelda-majoras-mask-3d-update-ver-11",
-    "releases": [
-      {"id": "0004000E00125500"}
-    ],
-    "title": "The Legend of Zelda: Majora’s Mask 3D Update Ver. 1.1"
-  },
-  {
     "compatibility": 2,
     "directory": "the-legend-of-zelda-ocarina-of-time-3d",
     "releases": [
@@ -12927,14 +12335,6 @@
       {"id": "0004000000182200"}
     ],
     "title": "The Legend of Zelda: Tri Force Heroes Demo"
-  },
-  {
-    "compatibility": 99,
-    "directory": "the-legend-of-zelda-tri-force-heroes-update",
-    "releases": [
-      {"id": "0004000E00176F00"}
-    ],
-    "title": "The Legend of Zelda: Tri Force Heroes Update"
   },
   {
     "compatibility": 2,
@@ -13082,14 +12482,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "titan-attacks-update-ver-11",
-    "releases": [
-      {"id": "0004000E00158600"}
-    ],
-    "title": "Titan Attacks! Update Ver. 1.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "titanic-mystery",
     "releases": [
       {"id": "000480044B374845"}
@@ -13140,18 +12532,10 @@
     "compatibility": 2,
     "directory": "tomodachi-life",
     "releases": [
-      {"id": "000400000008C300"}
-    ],
-    "title": "Tomodachi Life"
-  },
-  {
-    "compatibility": 5,
-    "directory": "tomodachi-life-update-ver-11",
-    "releases": [
-      {"id": "0004000E0008C300"},
+      {"id": "000400000008C300"},
       {"id": "000400000008C400"}
     ],
-    "title": "Tomodachi Life Update Ver. 1.1"
+    "title": "Tomodachi Life"
   },
   {
     "compatibility": 99,
@@ -13459,14 +12843,6 @@
   },
   {
     "compatibility": 99,
-    "directory": "warioware-gold-update-ver-11",
-    "releases": [
-      {"id": "0004000E001D1C00"}
-    ],
-    "title": "Warioware Gold Update Ver. 1.1"
-  },
-  {
-    "compatibility": 99,
     "directory": "warioware-snapped",
     "releases": [
       {"id": "000480044B555745"}
@@ -13706,14 +13082,6 @@
     "title": "Xenoblade Chronicles 3D"
   },
   {
-    "compatibility": 99,
-    "directory": "xenoblade-chronicles-3d-update-ver-10",
-    "releases": [
-      {"id": "0004000E0F700100"}
-    ],
-    "title": "Xenoblade Chronicles 3D Update Ver. 1.0"
-  },
-  {
     "compatibility": 1,
     "directory": "xeodrifter",
     "releases": [
@@ -13746,28 +13114,12 @@
     "title": "YO-KAI WATCH 2:  Bony Spirits"
   },
   {
-    "compatibility": 99,
-    "directory": "yo-kai-watch-2-bony-spirits-update-ver-20",
-    "releases": [
-      {"id": "0004000E0019A900"}
-    ],
-    "title": "YO-KAI WATCH 2:  Bony Spirits Update Ver. 2.0"
-  },
-  {
     "compatibility": 0,
     "directory": "yo-kai-watch-2-fleshy-souls",
     "releases": [
       {"id": "000400000019AA00"}
     ],
     "title": "YO-KAI WATCH 2:  Fleshy Souls"
-  },
-  {
-    "compatibility": 99,
-    "directory": "yo-kai-watch-2-fleshy-souls-update-ver-20",
-    "releases": [
-      {"id": "0004000E0019AA00"}
-    ],
-    "title": "YO-KAI WATCH 2: Fleshy Souls Update Ver. 2.0"
   },
   {
     "compatibility": 1,
@@ -13794,36 +13146,12 @@
     "title": "YO-KAI WATCH  BLASTERS:  Red Cat Corps"
   },
   {
-    "compatibility": 99,
-    "directory": "yo-kai-watch-blasters-red-cat-corps-update-ver-24",
-    "releases": [
-      {"id": "0004000E001CEB00"}
-    ],
-    "title": "YO-KAI WATCH BLASTERS:  Red Cat Corps\nUpdate Ver. 2.4"
-  },
-  {
     "compatibility": 0,
     "directory": "yo-kai-watch-blasters-white-dog-squad",
     "releases": [
       {"id": "00040000001CEF00"}
     ],
     "title": "YO-KAI WATCH BLASTERS:  White Dog Squad"
-  },
-  {
-    "compatibility": 99,
-    "directory": "yo-kai-watch-blasters-white-dog-squad-update-ver-24",
-    "releases": [
-      {"id": "0004000E001CEF00"}
-    ],
-    "title": "YO-KAI WATCH BLASTERS:  White Dog Squad\nUpdate Ver. 2.4"
-  },
-  {
-    "compatibility": 99,
-    "directory": "yo-kai-watch-update-ver-12",
-    "releases": [
-      {"id": "0004000E00167700"}
-    ],
-    "title": "YO-KAI WATCH Update Ver. 1.2"
   },
   {
     "compatibility": 99,
