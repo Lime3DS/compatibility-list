@@ -5010,7 +5010,7 @@
     "title": "Animal Crossing: New Horizons Island Transfer Tool"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "animal-crossing-new-leaf",
     "releases": [
       {"id": "0004000000086300"},
@@ -5019,7 +5019,7 @@
     "title": "Animal Crossing: New Leaf"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "animal-crossing-new-leaf-update-ver-15",
     "releases": [
       {"id": "0004000E00086300"}
@@ -5027,7 +5027,7 @@
     "title": "Animal Crossing: New Leaf Update Ver. 1.5"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "animal-crossing-new-leaf-welcome-amiibo",
     "releases": [
       {"id": "0004000000198E00"}
