@@ -80,7 +80,7 @@
     "title": "3D Altered Beast"
   },
   {
-    "compatibility": 4,
+    "compatibility": 0,
     "directory": "3d-classics-excitebike",
     "releases": [
       {"id": "0004000000054300"}
