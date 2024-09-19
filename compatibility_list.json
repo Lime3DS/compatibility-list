@@ -4073,10 +4073,12 @@
     "title": "Kid Tripp"
   },
   {
-    "compatibility": 5,
+    "compatibility": 1,
     "directory": "kingdom-hearts-3d-dream-drop-distance",
     "releases": [
-      {"id": "000400000008D300"}
+      {"id": "000400000008D300"},
+      {"id": "0004000000095500"},
+      {"id": "000400000004EE00"}
     ],
     "title": "KINGDOM HEARTS 3D [Dream Drop Distance]"
   },
