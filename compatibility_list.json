@@ -5723,7 +5723,7 @@
     "title": "Nintendo Video"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "nintendogs-cats-french-bulldog",
     "releases": [
       {"id": "0004000000031200"}
@@ -5731,7 +5731,7 @@
     "title": "nintendogs + cats: French Bulldog"
   },
   {
-    "compatibility": 3,
+    "compatibility": 1,
     "directory": "nintendogs-cats-golden-retriever",
     "releases": [
       {"id": "0004000000030D00"}
