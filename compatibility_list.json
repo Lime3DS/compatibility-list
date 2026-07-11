@@ -8155,10 +8155,13 @@
     "title": "Stack 'em High"
   },
   {
-    "compatibility": 3,
+    "compatibility": 2,
     "directory": "star-fox-64-3d",
     "releases": [
-      {"id": "0004000000049000"}
+      {"id": "0004000000049000"},
+      {"id": "0004000000049100"},
+      {"id": "0004000000030400"},
+      {"id": "0004000000080A00"}
     ],
     "title": "Star Fox 64 3D"
   },
