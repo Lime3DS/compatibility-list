@@ -1468,7 +1468,9 @@
     "compatibility": 3,
     "directory": "castlevania-lords-of-shadow-mirror-of-fate",
     "releases": [
-      {"id": "0004000000096600"}
+      {"id": "0004000000096600"},
+      {"id": "000400000009E500"},
+      {"id": "00040000000BAC00"}
     ],
     "title": "Castlevania: Lords of Shadow - Mirror of Fate"
   },
