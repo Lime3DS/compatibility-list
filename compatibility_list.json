@@ -5244,6 +5244,15 @@
   },
   {
     "compatibility": 0,
+    "directory": "mii-maker",
+    "releases": [
+      {"id": "0004001000021700"},
+      {"id": "0004001000022700"}
+    ],
+    "title": "Mii Maker"
+  },
+  {
+    "compatibility": 0,
     "directory": "miitopia",
     "releases": [
       {"id": "00040000001B4E00"},
