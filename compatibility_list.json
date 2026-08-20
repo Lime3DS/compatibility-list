@@ -5976,10 +5976,12 @@
     "title": "PAC-MAN & Galaga Dimensions"
   },
   {
-    "compatibility": 1,
+    "compatibility": 5,
     "directory": "pac-man-and-the-ghostly-adventures",
     "releases": [
-      {"id": "00040000000F1200"}
+      {"id": "00040000000F1200"},
+      {"id": "00040000000F4300"},
+      {"id": "00040000000F5400"}
     ],
     "title": "PAC-MAN and the Ghostly Adventures"
   },
