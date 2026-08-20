@@ -5716,7 +5716,7 @@
     "title": "Netflix"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "new-super-mario-bros-2",
     "releases": [
       {"id": "000400000007AE00"},
